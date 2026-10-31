@@ -1,0 +1,104 @@
+Personal Info:
+  Name: Not Provided
+  Email: Not Provided
+  Phone: Not Provided
+  Location:
+    City: Pune
+    Country: India
+    Remote Preference: Not Provided
+  Summary: Cloud Operations Architect (DevOps) with experience in various technologies and platforms.
+  Linkedin: Not Provided
+  Github: Not Provided
+Experience:
+  Company: DevOps
+  Company Info:
+    Industry: Not Provided
+    Size: Not Provided
+  Title: Cloud Operations Architect (DevOps)
+  Level: Not Provided
+  Employment Type: Not Provided
+  Dates:
+    Start: Not Provided
+    End: Not Provided
+    Duration: Not Provided
+  Responsibilities:
+    - Managing Tibco Spotfire Enterprise & Cloud environment.
+    - Helping India QA team with the pre-production environment for testing.
+    - Coordinating production deployment & hot-fixes.
+    - Leading the team and handling 4-projects.
+    - Arranging workshops over new AWS services for entire Team.
+  Technical Environment:
+    Technologies:
+      - AWS EC2
+      - RDS
+      - CloudFormation Template
+      - Lambda
+      - Dynamo DB
+      - Cloud Watch
+      - Auto-scaling
+      - Elastic Bean stalk
+      - Appdynamics
+    Methodologies:
+      - Not Provided
+    Tools:
+      - Not Provided
+Education:
+  Degree:
+    Level: Post Graduate Diploma
+    Field: Information Technology
+    Major: Not Provided
+  Institution:
+    Name: Symbiosis Institute
+    Location: Pune, Maharashtra
+    Accreditation: Not Provided
+  Dates:
+    Start: 2013-01
+    Expected Graduation: Not Provided
+  Achievements:
+    Honors: Not Provided
+    Relevant Coursework:
+      - Not Provided
+  Degree:
+    Level: Bachelor of Engineering
+    Field: Electronics and Telecommunications
+    Major: Not Provided
+  Institution:
+    Name: Pune University
+    Location: Pune, Maharashtra
+    Accreditation: Not Provided
+  Dates:
+    Start: 2007-01
+    Expected Graduation: Not Provided
+  Achievements:
+    Honors: Not Provided
+    Relevant Coursework:
+      - Not Provided
+Skills:
+  Technical:
+    Programming Languages:
+      Name: Python
+      Level: beginner
+      Name: Shell Scripting
+      Level: expert
+    Frameworks:
+      Name: Not Provided
+      Level: Not Provided
+    Databases:
+      Name: Not Provided
+      Level: Not Provided
+    Cloud:
+      Name: AWS
+      Level: beginner
+      Name: Azure
+      Level: beginner
+  Languages:
+    Name: Not Provided
+    Level: Not Provided
+Projects:
+  Name: Not Provided
+  Description: Not Provided
+  Technologies:
+    - Not Provided
+  Role: Not Provided
+  Url: Not Provided
+  Impact: Not Provided

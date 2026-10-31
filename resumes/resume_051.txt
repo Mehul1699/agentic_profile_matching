@@ -1,0 +1,94 @@
+Personal Info:
+  Location:
+    City: Gondia
+    Country: India
+  Summary: Java Developer with experience in web application development, backend to frontend module development, and database management. Strong problem-solving skills and ability to resolve project-related issues efficiently.
+Experience:
+  Company: Xoriant Solutions Pvt Ltd
+  Company Info:
+    Industry: Software Development
+  Title: Java Developer
+  Level: mid
+  Employment Type: full-time
+  Dates:
+    Start: 2017-09
+    End: Present
+    Duration: Ongoing
+  Responsibilities:
+    - Developed modules from Backend to Middleware to Frontend.
+    - Fixed bugs and proactively developed enhancements.
+    - Resolved application incidents and created task tickets.
+    - Debugged and provided solutions for workflow issues.
+    - Resolved database issues and provided technical support to business analysts.
+    - Tracked deployments and analyzed their effects on ongoing jobs.
+    - Contributed to automation of daily activities and process improvements.
+    - Ensured on-time, within-budget delivery while meeting quality expectations.
+    - Maintained knowledge base of domain, known defects, issues, processes, and development techniques.
+  Technical Environment:
+    Technologies:
+      - Java
+      - SQL
+      - PL/SQL
+      - C
+      - C++
+      - JSP
+      - Ext JS
+      - XML
+      - Web Services
+    Methodologies:
+      - Agile
+    Tools:
+      - Eclipse
+      - TOAD
+      - SoapBox
+      - Postman
+Education:
+  Degree:
+    Level: B.E.
+    Field: Computer Technology
+  Institution:
+    Name: Manoharbhai Patel Institute of Engineering and Technology
+    Location: Gondia, Maharashtra, India
+  Dates:
+    Expected Graduation: 2017-01
+  Achievements:
+    Relevant Coursework:
+  Degree:
+    Level: HSC
+    Field: Science
+  Institution:
+    Name: S.M.P. Science College
+    Location: Gondia, Maharashtra, India
+  Dates:
+  Achievements:
+    Relevant Coursework:
+Skills:
+  Technical:
+    Programming Languages:
+      Name: Java
+      Level: advanced
+      Name: SQL
+      Level: intermediate
+      Name: PL/SQL
+      Level: intermediate
+      Name: C
+      Level: intermediate
+      Name: C++
+      Level: intermediate
+    Frameworks:
+      Name: JSP
+      Level: intermediate
+      Name: Ext JS
+      Level: intermediate
+    Databases:
+      Name: Oracle
+      Level: intermediate
+      Name: MS-SQL
+      Level: intermediate
+      Name: MS-Access
+      Level: intermediate
+      Name: MS-Excel
+      Level: intermediate
+    Cloud:
+  Languages:
+Projects:

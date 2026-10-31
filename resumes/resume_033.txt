@@ -1,0 +1,73 @@
+Personal Info:
+  Location:
+    City: Mumbai
+    Country: India
+Experience:
+  Company: Fino Payments Bank
+  Company Info:
+  Title: Business Analyst
+  Dates:
+  Responsibilities:
+    - Conducted in-depth requirement and input gathering from all concerned stakeholders (Business SMEs, Technical Architect, and Business Architect) to create artifacts like Business Requirement Document (BRD) to arrive at functional requirements for the development team.
+    - Created Functional Specification Document (FSD) highlighting the technical implementation and the use cases.
+    - Led the Merchant Commission Module project from end-to-end and coordinated for CUG and Live.
+    - Designed the Account Opening Process flow end-to-end during the time when the bank was going live.
+    - SPOC for all the configurations (both account level and customer level) in production.
+    - Led the Cash Controlling Processes for the field users as per the requirement from the business team.
+    - Designed and built proof of concepts to validate the viability of alternate approaches and determine the optimum choice.
+    - Involved in Process Design for the development of the products.
+    - Performed Functional Testing of the entire system and provided support during UAT by preparing UAT test cases, performing UAT tests to onboard new processes as BAU.
+    - Worked with the development teams in arriving at detailed techno-functional specifications, participated in Feasibility Analysis.
+    - Conducted twice-a-week meetings with the vendor to discuss the status of CRs and resolve technical queries.
+  Technical Environment:
+    Technologies:
+    Methodologies:
+    Tools:
+  Company: Fino Paytech Pvt. Ltd
+  Company Info:
+  Title: Business Analyst
+  Dates:
+  Responsibilities:
+    - Requirement gathering, preparation of traceability matrix, preparation and execution of use cases, developing test plans based on requirements for Airtel Zambia National Partner Project.
+    - Led the employee profile creation, maintenance of employee details in the database: Preparation of workflow, end-to-end development, and testing of the module.
+    - Designed the workflow process of the CAPA (Corrective Action Preventive Analysis) module to maintain the audit findings raised by the internal audit team.
+    - Designed the Expense Management module and automated it for end-to-end in-house expense flow.
+    - Designed the PMO tool Parivartan used for tracking the projects end-to-end.
+  Technical Environment:
+    Technologies:
+    Methodologies:
+    Tools:
+Education:
+  Degree:
+    Level: BE
+    Field: Computer Science
+  Institution:
+    Name: Mumbai University
+    Location: Mumbai, Maharashtra, India
+  Dates:
+  Achievements:
+    Relevant Coursework:
+  Degree:
+    Level: HSC
+  Institution:
+    Name: Maharashtra State Board
+    Location: Mumbai, Maharashtra, India
+  Dates:
+  Achievements:
+    Relevant Coursework:
+  Degree:
+    Level: SSC
+  Institution:
+    Name: Maharashtra State Board
+    Location: Mumbai, Maharashtra, India
+  Dates:
+  Achievements:
+    Relevant Coursework:
+Skills:
+  Technical:
+    Programming Languages:
+    Frameworks:
+    Databases:
+    Cloud:
+  Languages:
+Projects:

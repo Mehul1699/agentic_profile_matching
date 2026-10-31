@@ -1,0 +1,90 @@
+Personal Info:
+  Location:
+    City: Pune
+    Country: India
+Experience:
+  Company: Vertical Software
+  Company Info:
+  Title: Java Developer
+  Dates:
+  Responsibilities:
+    - Expertise in design and development of web applications using J2EE, Servlets, JSP, JavaScript, HTML, CSS, jQuery, AJAX, JSON.
+    - Experienced in developing applications using MVC architecture.
+    - Good understanding of Software Development Life Cycle Phases such as Requirement gathering, analysis, design, development, and unit testing.
+  Technical Environment:
+    Technologies:
+      - Java
+      - J2EE
+      - Spring
+      - Hibernate
+    Methodologies:
+    Tools:
+      - Eclipse
+      - Tomcat
+    Databases:
+      - MongoDB
+      - MySQL
+Education:
+  Degree:
+    Level: B.E
+    Field: Information Technology
+  Institution:
+    Name: Savitribai Phule Pune University
+    Location: Pune, Maharashtra, India
+  Dates:
+    Start: 2016-01
+  Achievements:
+    Relevant Coursework:
+  Degree:
+    Level: Higher Secondary
+  Institution:
+    Name: Higher Secondary School
+    Location: Pune, India
+  Dates:
+  Achievements:
+    Relevant Coursework:
+Skills:
+  Technical:
+    Programming Languages:
+      Name: Java
+    Frameworks:
+      Name: Spring
+      Name: Hibernate
+    Databases:
+      Name: MongoDB
+      Name: MySQL
+    Cloud:
+  Languages:
+Projects:
+  Name: Expense Ledger
+  Technologies:
+    - Java
+    - JSP
+    - Servlet
+    - MySQL
+    - JavaScript
+    - JSON
+    - jQuery
+    - AJAX
+  Role: Java Developer
+  Name: Trimurti Developer (Real Estate)
+  Technologies:
+    - Java
+    - JSP
+    - Servlet
+    - MySQL
+    - JavaScript
+    - JSON
+    - jQuery
+    - AJAX
+  Role: Java Developer
+  Name: Vimay Enterprise
+  Technologies:
+    - Java
+    - JSP
+    - Spring
+    - Hibernate
+    - Maven
+    - jQuery
+    - AJAX
+  Role: Java Developer

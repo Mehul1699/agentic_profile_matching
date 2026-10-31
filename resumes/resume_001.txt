@@ -1,0 +1,72 @@
+Personal Info:
+  Location:
+    City: Pune
+    Country: India
+  Summary: Python Developer with experience in Python, Tensorflow, Numpy, C, C++, MySQL, and various platforms.
+Experience:
+  Company: Fresher
+  Company Info:
+  Title: Python Developer
+  Level: entry
+  Employment Type: full-time
+  Dates:
+    End: Present
+    Duration: 6 months
+  Responsibilities:
+    - Python programming
+  Technical Environment:
+    Technologies:
+      - Python
+      - Tensorflow
+      - Numpy
+      - C
+      - C++
+      - MySQL
+    Methodologies:
+    Tools:
+      - Ubuntu
+      - Fedora
+      - Cent OS
+      - Windows
+Education:
+  Degree:
+    Level: ME
+    Field: Computer Engineering
+  Institution:
+    Name: Savitribai Phule Pune University
+    Location: Pune, Maharashtra
+  Dates:
+    Expected Graduation: 2016-01
+  Achievements:
+    Relevant Coursework:
+  Degree:
+    Level: B.E
+    Field: Computer Engineering
+  Institution:
+    Name: Savitribai Phule Pune University
+    Location: Pune, Maharashtra
+  Dates:
+    Expected Graduation: 2014-01
+  Achievements:
+    Relevant Coursework:
+Skills:
+  Technical:
+    Programming Languages:
+      Name: Python
+      Level: intermediate
+      Name: C++
+      Level: intermediate
+      Name: C
+      Level: intermediate
+    Frameworks:
+      Name: Tensorflow
+      Level: intermediate
+      Name: Numpy
+      Level: intermediate
+    Databases:
+      Name: MySQL
+      Level: intermediate
+    Cloud:
+  Languages:
+Projects:
+  Technologies:

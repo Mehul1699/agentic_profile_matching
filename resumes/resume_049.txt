@@ -1,0 +1,131 @@
+Personal Info:
+  Name: Yogesh Tikhat
+  Location:
+    City: Pune
+    Country: India
+  Summary: Experienced Database Administrator with expertise in Oracle RDBMS, RMAN, Data Guard, ASM, RAC, and Golden Gate. Skilled in database management, upgrades, migrations, and troubleshooting in production environments.
+Experience:
+  Company: BNY Mellon
+  Company Info:
+    Industry: Investment Banking
+    Size: Large Enterprise
+  Title: Database Administrator
+  Level: mid
+  Employment Type: full-time
+  Dates:
+    Start: 2017-01
+    End: Present
+    Duration: 7+ years
+  Responsibilities:
+    - Managing and supporting critical production, pre-production, test, and reporting databases.
+    - Handling day-to-day database activities, monitoring, and incident management.
+    - Building new databases and preparing them for go-live.
+    - Performing database patching (CPU, PSU) and upgrades from Oracle 11g to 12c.
+    - Managing ASM disk groups and Data Guard configurations.
+    - Performing database migrations and cloning using RMAN.
+    - Ensuring ITIL compliance in incident and change management.
+    - Providing weekly reports and participating in service improvement plans.
+  Technical Environment:
+    Technologies:
+      - Oracle RDBMS 10g, 11g, 12c
+      - RMAN
+      - Data Guard
+      - ASM
+      - RAC
+      - Golden Gate
+    Tools:
+      - OCC
+      - PUTTY
+      - SQLPLUS
+      - SQL Developer
+      - Netbackup
+      - SCOM
+      - SCCM
+      - VMWare Vsphere
+    Operating Systems:
+      - RHEL 6.0
+      - RHEL 6.5
+      - UNIX
+      - Microsoft Windows
+  Company: Brose India
+  Company Info:
+    Industry: Automotive
+    Size: Large Enterprise
+  Title: Database Administrator
+  Level: mid
+  Employment Type: full-time
+  Dates:
+  Responsibilities:
+    - Managing internal databases and servers globally.
+    - Providing 24x7 on-call support in rotational shifts.
+    - Performing database creation, patching, and backups using Data Pump/RMAN.
+    - Monitoring logs and resolving database issues.
+    - Creating and decommissioning VM servers as per requirements.
+    - Managing OS-level alerts using SCOM and troubleshooting OS backups using Symantec Netbackup.
+  Technical Environment:
+    Technologies:
+      - Oracle 11g
+      - RMAN
+      - Data Pump
+      - Data Guard
+    Tools:
+      - SCOM
+      - SCCM
+      - Symantec Netbackup
+    Operating Systems:
+      - Linux
+      - Windows
+  Company: Brose India
+  Company Info:
+    Industry: Automotive
+    Size: Large Enterprise
+  Title: Database Administrator
+  Level: mid
+  Employment Type: full-time
+  Dates:
+  Responsibilities:
+    - Participated in data center migration, ensuring successful relocation of servers and databases.
+    - Installed Oracle 11g on Linux platforms.
+    - Configured RMAN backups and physical standby databases using Data Guard.
+    - Performed database patching and cloning for migration purposes.
+  Technical Environment:
+    Technologies:
+      - Oracle 11g
+      - RMAN
+      - Data Guard
+    Tools:
+      - SCOM
+      - SCCM
+    Operating Systems:
+      - Linux
+      - Windows
+Education:
+  Degree:
+    Level: BE
+    Field: Computer Science and Engineering
+  Institution:
+    Name: SGBAU Amravati University
+    Location: Amravati, India
+  Dates:
+    Expected Graduation: 2014
+  Achievements:
+    Gpa: 7.21
+Skills:
+  Technical:
+    Databases:
+      Name: Oracle RDBMS
+      Level: advanced
+    Tools:
+      Name: RMAN
+      Level: advanced
+      Name: Netbackup
+      Level: advanced
+      Name: SCOM
+      Level: advanced
+    Operating Systems:
+      Name: RHEL
+      Level: advanced
+      Name: UNIX
+      Level: advanced
+      Name: Windows
+      Level: advanced

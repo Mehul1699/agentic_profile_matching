@@ -1,0 +1,137 @@
+Personal Info:
+  Name: Artem Sliusarenko
+  Email: artem.sliusarenko@city.ac.uk
+  Phone: +44 7123456789
+  Location:
+    City: London
+    Country: United Kingdom
+    Remote Preference: hybrid
+  Summary: Final year Computer Science student at City, University of London with strong focus on machine learning and software engineering. Experienced in developing ML-powered applications and passionate about solving complex technical challenges.
+  Linkedin: linkedin.com/in/artem-sliusarenko
+  Github: github.com/artemslius
+Experience:
+  Company: AT&T
+  Company Info:
+    Industry: Telecommunications
+    Size: 80+ employees
+  Title: Project Manager
+  Level: manager
+  Employment Type: full-time
+  Dates:
+    Start: 2013-01-01
+    End: 2024-03-20
+    Duration: 11 years 2 months
+  Responsibilities:
+    - Manage and lead all aspects of Transition / Pre-Transition comprising multiple vendors
+    - Transition Drill down sessions, Forward/Reverse Shadow phases and Reverse Presentation
+    - Transition Documentation & signoff of SMP & System Appreciation Document etc
+    - Measure & track testing metrics scorecard as part of Vendor Quality Index (VQI) initiative of AT&T
+    - Measure and track operating metrics like Onsite Subcon Index, Offshoring Index, Leakage Index, Utilization Index and Tail Index
+    - Manage, Track and Submit Project Monthly Financials & Invoicing
+    - Ensure 100% compliance to client / organization's quality and security processes, policies and SLAs
+    - Plan, manage and mitigate Risks
+    - Achieve Automation targets and SLAs using ConformiQ, Selenium & Oscar Tools
+    - Participate in proposal preparations to expand revenue and new business developments
+    - Manage & Track Work Allocation, Resourcing, Issue Resolution and Testing activities for the project
+    - Ensure Monthly Delivery / TL9K Metrics and CSL-KMs are submitted on time
+    - PMR, Internal Quality / Security Group, SQA, Quality Gates and external Ernst & Young / TL9K Audit
+    - Share weekly highlight reports, Project Health Report and regular Dashboard Reporting activities
+    - Prepare CSAT action plan for the team
+    - Prepare and implement Business Continuity Plan for the project
+    - Timely conduct of Business Continuity drills like Call Tree, Table Top and Project Rehearsal
+    - Comparative analysis, Root Cause Analysis and Defect Prevention exercises for ST, E2E and UAT
+    - Coordinate with Resource Management, Quality, Learning, Security, PMO and Business Unit
+    - Sub-Contractors and Rebadged (Ex-AT&T) staff management
+    - Participate in external technical interview / hiring drives for new engagements
+  Technical Environment:
+    Technologies:
+      - Python
+      - Selenium
+      - RALLY / IBM TD Platform
+      - DevOps / DevSecOps
+      - SAFe - Agile Craft
+      - Visual Basic 6.0
+      - MS-SQL Server / Oracle 8/8i
+      - Conformiq
+      - HP QC / QTP
+      - Crystal Report 8.5
+    Methodologies:
+      - Agile / Scrum Management
+      - Risk /Client Management
+      - Process Improvements
+      - Proposals/RFE
+      - Project / Program Finance
+      - Profit Maximization
+      - Internal / External Audits
+      - Software Testing / Quality Assurance
+    Tools:
+      - Git
+      - Jenkins
+      - AWS
+Education:
+  Degree:
+    Level: Bachelor
+    Field: Commerce
+    Major: Commerce
+  Institution:
+    Name: Mumbai University
+    Location: Mumbai, Maharashtra
+    Accreditation: UGC
+  Dates:
+    Start: 2001-01
+    Expected Graduation: 2004-01
+  Achievements:
+    Gpa: 3.8
+    Honors: Dean's List 2022-2023
+    Relevant Coursework:
+      - Accounting
+      - Finance
+      - Economics
+Skills:
+  Technical:
+    Programming Languages:
+      Name: Python
+      Level: expert
+      Name: Visual Basic 6.0
+      Level: intermediate
+    Frameworks:
+      Name: Selenium
+      Level: advanced
+      Name: RALLY / IBM TD Platform
+      Level: intermediate
+      Name: SAFe - Agile Craft
+      Level: intermediate
+    Databases:
+      Name: MS-SQL Server / Oracle 8/8i
+      Level: intermediate
+    Cloud:
+      Name: AWS
+      Level: intermediate
+      Name: Docker
+      Level: intermediate
+  Languages:
+    Name: English
+    Level: fluent
+    Name: Hindi
+    Level: native
+    Name: Marathi
+    Level: native
+    Name: Tulu
+    Level: native
+Projects:
+  Name: Thunderbird program
+  Description: One-Stop-Test-Shop catering to AT&T's Enterprise-wide business critical applications. As part of this Fixed Price engagement various types of testing like System, Regression, Sanity and UAT support gets executed through Agile Methodologies on applications under Billing and Sales domain.
+  Technologies:
+    - Python
+    - Selenium
+    - RALLY / IBM TD Platform
+    - DevOps / DevSecOps
+    - SAFe - Agile Craft
+    - Visual Basic 6.0
+    - MS-SQL Server / Oracle 8/8i
+    - Conformiq
+    - HP QC / QTP
+    - Crystal Report 8.5
+  Role: Project Manager
+  Url: github.com/artemslius/resume-parser-matcher
+  Impact: Achieved 85% accuracy in job-candidate matching

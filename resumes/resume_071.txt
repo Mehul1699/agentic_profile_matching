@@ -1,0 +1,100 @@
+Personal Info:
+  Location:
+    City: Pune
+    Country: India
+Experience:
+  Company: Atos Syntel
+  Company Info:
+    Industry: IT Services
+  Title: Python Developer
+  Level: mid
+  Employment Type: full-time
+  Dates:
+    Duration: 15 months
+  Responsibilities:
+    - Working as a developer in the field of computer vision for a US-based client in the banking domain.
+    - Design and development of computer vision-based algorithms for image preprocessing using OpenCV, PIL, and Numpy.
+    - Unit testing and debugging the code and maintaining the versions using Git.
+  Technical Environment:
+    Technologies:
+      - Python
+      - OpenCV
+      - PIL
+      - Numpy
+    Methodologies:
+    Tools:
+      - Git
+Education:
+  Degree:
+    Level: Bachelor of Engineering
+    Field: Computer
+  Institution:
+    Name: Savitribai Phule Pune University
+    Location: Pune, Maharashtra, India
+  Dates:
+    Expected Graduation: 2018-06
+  Achievements:
+  Degree:
+    Level: HSC
+  Institution:
+    Name: Maharashtra State Board
+    Location: India
+  Dates:
+    Expected Graduation: 2014-06
+  Achievements:
+  Degree:
+    Level: SSC
+  Institution:
+    Name: Maharashtra State Board
+    Location: India
+  Dates:
+    Expected Graduation: 2012-06
+  Achievements:
+Skills:
+  Technical:
+    Programming Languages:
+      Name: Python
+      Level: intermediate
+    Frameworks:
+      Name: Django
+      Level: beginner
+    Databases:
+      Name: MySQL
+      Level: beginner
+    Cloud:
+    Other:
+      Name: REST API
+      Level: beginner
+      Name: HTML5
+      Level: beginner
+  Languages:
+Projects:
+Certifications: {"name": "ESD Program", "issuer": "Zensar Technologies", "date": "2017", "description": "Successfully completed ESD program conducted by Zensar Technologies, Pune."}, {"name": "Employability Training", "issuer": "Barclays, Global Talent Track, and NASSCOM Foundation", "date": "2015", "description": "Successfully completed Employability training."}
+Achievements:
+  - Treasurer in IEEE student branch at JSCOE, Pune for 2017-18.
+  - Worked as team leader in college’s various technical and cultural events from 2016 - 2017.
+  - Project idea got selected for final prototyping round in KPIT-Sparkle 2018, Pune.
+  - Participated in Avishkar 2017 conducted by Savitribai Phule Pune University.
+  - Project idea submitted in Accenture Innovation 2018, Pune.
+  - Brought sponsorship of Rs. 15,000 from Platinum Auto (formerly Royal Enfield) in 2017, Pune.
+  - Secured 1st Rank for college-level competition of Poster presentation on Smart ambulance in 2017, Pune.
+  - Organized IEEE workshop on ‘Excellence in English and Public Speaking’ in 2017, Pune.
+Workshops:
+  Name: Medical IoT
+  Issuer: IEEE Standards Association
+  Date: 2017
+  Duration: 4 days
+  Location: VIP, Pune
+  Name: Introduction to Arduino
+  Issuer: SCOE
+  Date: 2016
+  Duration: 2 days
+  Location: Pune
+  Name: Robotics for Juniors
+  Issuer: Computer Society of India
+  Date: 2016
+  Duration: 3 days
+  Location: SKNCOE, Pune
+  Name: Inter-college technical competitions
+  Issuer: SCOE, PICT, and AISSMS
+  Location: Pune

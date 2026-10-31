@@ -1,0 +1,62 @@
+Personal Info:
+  Location:
+  Summary: SAP Technical Architect with 13+ years of experience in SAP, ranging from development to subject matter expertise. Strong background in implementation, upgrade, application development, and maintenance. Certified in SAP ABAP, ITIL 2011 Foundation, and PRINCE2 Practitioner. Extensive experience in SAP ABAP FRICEW components, multiple SAP modules, and S/4HANA. Proven ability to lead technical teams and manage full-lifecycle SAP projects.
+Experience:
+  Company Info:
+    Industry: SAP Consulting
+  Title: SAP Technical Architect
+  Level: senior
+  Employment Type: full-time
+  Dates:
+    Duration: 13 years
+  Responsibilities:
+    - Led SAP project full-lifecycle implementations across multiple global projects.
+    - Worked directly with clients in the USA (1.3 years) and Malaysia (1.2 years).
+    - Expertise in SAP ABAP FRICEW components and various SAP modules (MM, FI, CO, SD, PS, PP, CS, PM, QM, HR).
+    - Experience in S/4HANA, IS-Auto, IS-Retail, SCM 7.0, SOLMAN, SAP GTS, SAP PI 7.3, SAP BI 7.0/7.3, Vistex, ProShip, HPQC, IBM ManageNow, CA Service Desk, Loftware, Data Matrix.
+    - Developed SAP NetWeaver Gateway (Fiori) applications and created multiple POCs for potential customers.
+    - Completed 9 implementation, 7 support, 1 roll-out, and 1 upgrade projects.
+    - Led technical teams of various sizes and provided customization in SD, FI, and MM modules.
+    - Managed SAP ECC6.0 upgrades and Unicode conversion tasks.
+    - Interacted with business system analysts and end-users during the design phase.
+    - Analyzed complex business processes, estimated efforts, and created technical specifications.
+    - Worked in onsite-offshore support models and led teams effectively.
+    - Participated in pre-sales activities and project management.
+  Technical Environment:
+    Technologies:
+      - SAP ABAP
+      - SAP S/4HANA
+      - SAP NetWeaver Gateway
+      - oData
+      - Fiori
+      - SAP EWM
+      - SAP APO
+      - SAP IS-Retail
+      - SAP IS-Auto
+    Methodologies:
+      - Agile
+      - ITIL
+      - PRINCE2
+    Tools:
+      - HPQC
+      - IBM ManageNow
+      - CA Service Desk
+      - Loftware
+      - Data Matrix
+Education:
+Skills:
+  Technical:
+    Programming Languages:
+      Name: SAP ABAP
+      Level: expert
+    Frameworks:
+      Name: SAP NetWeaver Gateway
+      Level: advanced
+      Name: oData
+      Level: advanced
+      Name: Fiori
+      Level: advanced
+    Databases:
+    Cloud:
+  Languages:
+Projects:

@@ -1,0 +1,82 @@
+Personal Info:
+  Location:
+    City: Nagpur
+    Country: India
+Experience:
+  Company: Inouvelle Ventures Private Limited
+  Company Info:
+  Title: Java Developer
+  Dates:
+    Start: 2017-12
+  Responsibilities:
+    - Developed Stock Management System for the Medicinal Market
+    - Implemented functionalities for tracking medicines, ailments, surgical Equipments, wholesalers, retailers, employees, and customers
+    - Developed debtor invoicing software for small businesses and freelancers
+  Technical Environment:
+    Technologies:
+      - Angular
+      - JAVA - J2EE
+      - Spring
+      - Hibernate
+    Methodologies:
+      - Functional Testing
+      - Manual Testing
+    Tools:
+      - Windows XP/07/08
+      - PostgresSql Database
+Education:
+  Degree:
+    Level: B.E
+    Field: Computer Science and Engineering
+  Institution:
+    Name: RTMNU University - Jhulelal Institute of Technology
+    Location: Nagpur, India
+  Dates:
+    Start: 2013-01
+    Expected Graduation: 2017-01
+  Achievements:
+    Relevant Coursework:
+  Degree:
+    Level: HSC
+  Institution:
+    Name: Maharashtra State Board - Dayanand Arya Kanya Junior College
+    Location: Nagpur, India
+  Dates:
+    Start: 2011-01
+    Expected Graduation: 2013-01
+  Achievements:
+    Relevant Coursework:
+  Degree:
+    Level: SSC
+  Institution:
+    Name: Maharashtra State Board
+    Location: Nagpur, India
+  Dates:
+    Start: 2010-01
+    Expected Graduation: 2011-01
+  Achievements:
+    Relevant Coursework:
+Skills:
+  Technical:
+    Programming Languages:
+      Name: C
+      Name: C++
+      Name: J2EE
+    Frameworks:
+      Name: Spring
+      Name: Hibernate
+    Databases:
+      Name: My SQL
+      Name: PostgreSQL
+    Cloud:
+  Languages:
+Projects:
+  Name: Stock Management System
+  Description: Stock management System is Specially Developing for the Medicinal Market. This software is developing to keep the track of medicines, ailments, surgical Equipments, & also to keep the track of Wholesalers, Retailers, Employees, & Customers of the Company. Stock management system is the practice of ordering, storing, tracking, and controlling inventory. Debtor invoicing software helps small businesses and freelancers keep track of company assets. Stock management may also be called stock control, inventory management or inventory control.
+  Technologies:
+    - Angular
+    - JAVA - J2EE
+    - Spring
+    - Hibernate
+    - PostgresSql Database
+  Role: Java Developer

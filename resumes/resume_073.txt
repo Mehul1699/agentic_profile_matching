@@ -1,0 +1,101 @@
+Personal Info:
+  Name: Artem Sliusarenko
+  Email: artem.sliusarenko@city.ac.uk
+  Phone: +44 7123456789
+  Location:
+    City: London
+    Country: United Kingdom
+    Remote Preference: hybrid
+  Summary: Final year Computer Science student at City, University of London with strong focus on machine learning and software engineering. Experienced in developing ML-powered applications and passionate about solving complex technical challenges.
+  Linkedin: linkedin.com/in/artem-sliusarenko
+  Github: github.com/artemslius
+Experience:
+  Company: TechStart AI
+  Company Info:
+    Industry: Artificial Intelligence
+    Size: 50-200 employees
+  Title: Machine Learning Engineer Intern
+  Level: intern
+  Employment Type: internship
+  Dates:
+    Start: 2023-06-01
+    End: 2023-09-01
+    Duration: 3 months
+  Responsibilities:
+    - Developed and deployed ML models for text classification using PyTorch
+    - Implemented data preprocessing pipelines using Python and pandas
+    - Optimized model performance resulting in 25% faster inference time
+  Technical Environment:
+    Technologies:
+      - Python
+      - PyTorch
+      - FastAPI
+      - Docker
+    Methodologies:
+      - Agile
+      - CI/CD
+    Tools:
+      - Git
+      - Jenkins
+      - AWS
+Education:
+  Degree:
+    Level: BSc
+    Field: Computer Science
+    Major: Artificial Intelligence
+  Institution:
+    Name: City, University of London
+    Location: London, UK
+    Accreditation: QAA
+  Dates:
+    Start: 2020-09
+    Expected Graduation: 2024-06
+  Achievements:
+    Gpa: 3.8
+    Honors: Dean's List 2022-2023
+    Relevant Coursework:
+      - Machine Learning
+      - Natural Language Processing
+      - Advanced Algorithms
+Skills:
+  Technical:
+    Programming Languages:
+      Name: Python
+      Level: expert
+      Name: JavaScript
+      Level: intermediate
+      Name: Java
+      Level: intermediate
+    Frameworks:
+      Name: PyTorch
+      Level: advanced
+      Name: FastAPI
+      Level: intermediate
+      Name: React
+      Level: intermediate
+    Databases:
+      Name: PostgreSQL
+      Level: intermediate
+      Name: MongoDB
+      Level: intermediate
+    Cloud:
+      Name: AWS
+      Level: intermediate
+      Name: Docker
+      Level: intermediate
+  Languages:
+    Name: English
+    Level: fluent
+    Name: Ukrainian
+    Level: native
+Projects:
+  Name: Resume Parser & Job Matcher
+  Description: Final year project: AI-powered system for matching job seekers with relevant positions using NLP
+  Technologies:
+    - Python
+    - FastAPI
+    - PyTorch
+    - Next.js
+  Role: Full-stack Developer & ML Engineer
+  Url: github.com/artemslius/resume-parser-matcher
+  Impact: Achieved 85% accuracy in job-candidate matching

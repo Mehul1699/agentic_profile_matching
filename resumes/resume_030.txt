@@ -1,0 +1,118 @@
+Personal Info:
+  Location:
+    City: Pune
+    Country: India
+  Summary: Java Developer with experience in Hibernate, JSP, and Servlets. Passionate about software development and programming.
+Experience:
+  Company: Maxgen Technologies Pvt. Ltd.
+  Company Info:
+    Industry: IT Services
+  Title: Java Developer
+  Level: entry-level
+  Employment Type: full-time
+  Dates:
+  Responsibilities:
+    - Worked as a Java developer using Hibernate technology.
+    - Developed web applications using JSP, Servlets, and Hibernate.
+  Technical Environment:
+    Technologies:
+      - Java
+      - Hibernate
+      - JSP
+      - Servlets
+    Methodologies:
+    Tools:
+  Company: Prakshal IT Academy
+  Company Info:
+    Industry: Education & Training
+  Title: Trainer
+  Level: mid-level
+  Employment Type: full-time
+  Dates:
+  Responsibilities:
+    - Taught A+, N+, and CCNA (Routing and Switching).
+  Technical Environment:
+    Technologies:
+      - Networking
+      - CCNA
+    Methodologies:
+    Tools:
+Education:
+  Degree:
+    Level: ME
+    Field: Computers
+    Major: Computer Science
+  Institution:
+    Name: Savitribai Phule Pune University
+    Location: Pune, Maharashtra, India
+  Dates:
+    Start: 2015-06
+    Expected Graduation: 2018-02
+  Achievements:
+    Relevant Coursework:
+      - Software Development
+      - Programming
+  Degree:
+    Level: SSC
+    Field: General Education
+  Institution:
+    Name: Maharashtra Secondary Board
+    Location: Solapur, Maharashtra, India
+  Dates:
+    Expected Graduation: 2007-06
+  Achievements:
+    Relevant Coursework:
+Skills:
+  Technical:
+    Programming Languages:
+      Name: Java
+      Level: intermediate
+      Name: C
+      Level: beginner
+      Name: C++
+      Level: beginner
+    Frameworks:
+      Name: Hibernate
+      Level: beginner
+      Name: Spring
+      Level: beginner
+    Databases:
+      Name: SQL
+      Level: beginner
+      Name: MySQL
+      Level: beginner
+      Name: Oracle 9i
+      Level: beginner
+      Name: Oracle 10g
+      Level: beginner
+    Cloud:
+  Languages:
+Projects:
+  Name: Banking Software
+  Description: Used GSM technology for transaction messages for security purposes.
+  Technologies:
+    - Visual Basic 6.0
+    - Oracle 9i
+  Role: Developer
+  Impact: Enhanced security in banking transactions.
+  Name: Single Sign-On
+  Description: Created a 'Single Sign-On' mechanism for network security.
+  Technologies:
+    - Java
+    - Oracle 10g
+  Role: Developer
+  Impact: Improved network security through centralized authentication.
+  Name: Text-Based Graphical Password
+  Description: Developed a secure password system using Random Printing Algorithm to prevent shoulder surfing attacks.
+  Technologies:
+    - Java
+    - MySQL
+  Role: Developer
+  Impact: Increased security against shoulder surfing attacks.
+  Name: Agriculture Management System
+  Description: Created a web application for agriculture system and farming.
+  Technologies:
+    - Hibernate
+    - MySQL
+  Role: Developer
+  Impact: Streamlined agricultural management through digital solutions.

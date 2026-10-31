@@ -1,0 +1,73 @@
+Personal Info:
+  Location:
+    City: Hyderabad
+    Country: India
+  Summary: Devops Engineer with strong skills in Ant, Maven, GIT, Bitbucket, Jenkins, Linux, Ansible, Shell Scripting, Requirement Gathering, Continuous Integration and Continuous Deployment, Software Development Life Cycle, Software Testing Life Cycle, Documentation & Reporting, Test Reports.
+Experience:
+  Company: Nendrasys Technologies Pvt Ltd
+  Company Info:
+  Title: Devops Engineer
+  Dates:
+  Responsibilities:
+    - Detailed technical Knowledge and hands-on experience on DevOps, Automation, Build Engineering and Configuration Management.
+    - Creating fully automated CI build and deployment infrastructure and processes for multiple projects.
+    - Developing scripts for build, deployment, maintenance and related tasks using Jenkins.
+    - Installing, configuring and maintaining Continuous Integration, Automation and Configuration Management tools.
+    - Developing Ant, Maven and Shell scripts to automatically compile, package, deploy WAR, EAR and JAR files of multiple applications to various platforms.
+    - Creating Repositories, branches, managing the permissions of users and maintaining GIT, Bitbucket
+    - Deploying and maintaining the code and application respectively and configuring the components which increase the re-usability.
+    - Working closely with Architecture, Development, Test, Security and IT Services teams.
+    - Supporting Business Analysts in getting used to the newly created jobs and Release activities.
+    - Communicating daily with On-Site Team
+    - Analyzing the requirements and identifying gaps & tracking logs, issues.
+  Technical Environment:
+    Technologies:
+      - Ant
+      - Maven
+      - GIT
+      - Bitbucket
+      - Jenkins
+      - Linux
+      - Ansible
+      - Shell Scripting
+    Methodologies:
+      - Dev-ops
+      - Continuous Integration and Continuous Deployment
+      - Software Development Life Cycle
+      - Software Testing Life Cycle
+    Tools:
+      - Apache Tomcat server
+Education:
+  Degree:
+    Level: Masters
+    Field: science information technology
+  Institution:
+    Name: JNTU
+    Location: Hyderabad, Telangana, India
+  Dates:
+    Start: 2015-06
+    Expected Graduation: 2017-06
+  Achievements:
+    Relevant Coursework:
+Skills:
+  Technical:
+    Programming Languages:
+      Name: C
+      Name: Core Java
+    Frameworks:
+    Databases:
+    Cloud:
+  Languages:
+Projects:
+  Name: Sloan Global Holdings (Sloan) (E-commerce)
+  Description: The Scope of the project is to design & develop e-commerce product features for sloan project. It's a basically B2B project where customer can buy all fixers, sinks related product. It focuses on the company, the stakeholders and applications, which allow for online sales, distribution and marketing of product.
+  Technologies:
+    - Ant
+    - Maven
+    - GIT
+    - Bitbucket
+    - Jenkins
+    - Linux
+    - Ansible
+    - Shell Scripting
+  Role: Devops Engineer

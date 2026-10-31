@@ -1,0 +1,3 @@
+We are seeking a DevOps Engineer with knowledge of Linux, Git, and CI/CD pipelines. 
+Candidates should have experience with Docker, Kubernetes, and cloud platforms such as AWS. 
+Familiarity with Jenkins, Terraform, and automation scripting is desirable.

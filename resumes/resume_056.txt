@@ -1,0 +1,81 @@
+Personal Info:
+  Name: Not Provided
+  Email: Not Provided
+  Phone: Not Provided
+  Location:
+    City: Pune
+    Country: India
+    Remote Preference: Not Provided
+  Summary: Network and Security Engineer with experience in implementing and troubleshooting network security solutions, planning and implementation of multi-vendor firewalls, and configuration of Cisco routers and switches.
+  Linkedin: Not Provided
+  Github: Not Provided
+Experience:
+  Company: Capita
+  Company Info:
+    Industry: Not Provided
+    Size: Not Provided
+  Title: Network and Security Engineer
+  Level: Not Provided
+  Employment Type: Not Provided
+  Dates:
+    Start: Not Provided
+    End: Not Provided
+    Duration: Not Provided
+  Responsibilities:
+    - Work on Client Shared Network and Security infra
+    - Plan, Implement and troubleshoot customer requests
+    - Monitor Datacenter infra 24*7
+    - Work as On call engineer for weekends to provide Out of office support
+  Technical Environment:
+    Technologies:
+      - Network Security
+      - CHECKPOINT
+      - CISCO
+      - CISCO ASA
+      - Cisco routing and switching
+      - Loadbalncing F5
+    Methodologies:
+      - Not Provided
+    Tools:
+      - Not Provided
+Education:
+  Degree:
+    Level: BE
+    Field: Electronics
+    Major: Not Provided
+  Institution:
+    Name: A.I.S.S.M.S College of Engineering, University of Pune
+    Location: Pune, India
+    Accreditation: Not Provided
+  Dates:
+    Start: 2006-09
+    Expected Graduation: 2011-08
+  Achievements:
+    Honors: Not Provided
+    Relevant Coursework:
+      - Not Provided
+Skills:
+  Technical:
+    Programming Languages:
+      Name: Not Provided
+      Level: Not Provided
+    Frameworks:
+      Name: Not Provided
+      Level: Not Provided
+    Databases:
+      Name: Not Provided
+      Level: Not Provided
+    Cloud:
+      Name: Not Provided
+      Level: Not Provided
+  Languages:
+    Name: Not Provided
+    Level: Not Provided
+Projects:
+  Name: Not Provided
+  Description: Not Provided
+  Technologies:
+    - Not Provided
+  Role: Not Provided
+  Url: Not Provided
+  Impact: Not Provided

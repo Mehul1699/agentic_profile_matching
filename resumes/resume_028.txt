@@ -1,0 +1,76 @@
+Personal Info:
+  Location:
+    City: Nashik
+    Country: India
+Experience:
+  Company: Replete Business Solutions Pvt Ltd
+  Company Info:
+  Title: Java Developer
+  Employment Type: full-time
+  Dates:
+  Responsibilities:
+    - Worked as a Java Developer using Spring MVC, MySQL, MsSQL, Java, J2EE, AJAX, JavaScript, Ionic 3 framework, and AngularJS.
+  Technical Environment:
+    Technologies:
+      - Java
+      - Spring MVC
+      - J2EE
+      - AJAX
+      - JavaScript
+      - Ionic 3
+      - AngularJS
+      - MySQL
+      - MsSQL
+    Methodologies:
+    Tools:
+Education:
+  Degree:
+    Level: BE
+    Field: Computer Engineering
+  Institution:
+    Name: Late G.N. Sapkal College of Engineering
+    Location: Nashik, Maharashtra, India
+  Dates:
+    Start: 2013-08
+    Expected Graduation: 2016-07
+  Achievements:
+    Relevant Coursework:
+  Degree:
+    Level: Diploma
+    Field: Computer Technology
+  Institution:
+    Name: K K Wagh Polytechnic
+    Location: Nashik, Maharashtra, India
+  Dates:
+    Start: 2009-07
+    Expected Graduation: 2013-06
+  Achievements:
+    Relevant Coursework:
+Skills:
+  Technical:
+    Programming Languages:
+      Name: Java
+      Level: intermediate
+      Name: J2EE
+      Level: beginner
+    Frameworks:
+      Name: Spring MVC
+      Level: intermediate
+      Name: Ionic 3
+      Level: beginner
+      Name: AngularJS
+      Level: beginner
+      Name: Struts
+      Level: beginner
+    Databases:
+      Name: MySQL
+      Level: intermediate
+      Name: MsSQL
+      Level: intermediate
+      Name: Oracle
+      Level: beginner
+    Cloud:
+      Name: Azure Web Services
+      Level: beginner
+  Languages:
+Projects:

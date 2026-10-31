@@ -1,0 +1,3 @@
+We are looking for a Frontend Developer skilled in React.js, JavaScript, HTML, and CSS. 
+Candidates should understand responsive web design, React Hooks, and REST API integration. 
+Experience with TypeScript, Redux, and Git is preferred.

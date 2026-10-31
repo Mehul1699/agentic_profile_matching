@@ -1,0 +1,3 @@
+We are hiring a Data Engineer with strong Python and SQL skills. 
+Candidates should understand ETL pipelines, data processing, and database management. 
+Familiarity with Pandas, Apache Spark, Airflow, and cloud data platforms is desirable.

@@ -1,0 +1,45 @@
+Personal Info:
+  Location:
+    City: Pune
+    Country: Maharashtra
+  Summary: I want to work in organisation as a python developer to utilize my knowledge & To gain more knowledge with our organisation.
+Experience:
+  Company: Cybage Software Pvt. Ltd
+  Company Info:
+  Title: Python Developer
+  Dates:
+  Responsibilities:
+  Technical Environment:
+    Technologies:
+    Methodologies:
+    Tools:
+Education:
+  Degree:
+    Level: Diploma
+    Field: Computer Science
+  Institution:
+    Name: Aissms
+    Location: Pune, Maharashtra
+  Dates:
+    Start: 2013-06
+    Expected Graduation: 2016-06
+  Achievements:
+    Relevant Coursework:
+  Degree:
+    Level: BE
+    Field: Computer Science
+  Institution:
+    Name: Anantrao pawar college of Engineering & Research centre
+    Location: Pune, Maharashtra
+  Dates:
+    Start: 2016-06
+  Achievements:
+    Relevant Coursework:
+Skills:
+  Technical:
+    Programming Languages:
+    Frameworks:
+    Databases:
+    Cloud:
+  Languages:
+Projects:

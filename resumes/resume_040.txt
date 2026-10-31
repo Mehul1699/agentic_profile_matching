@@ -1,0 +1,155 @@
+Personal Info:
+  Name: Not Provided
+  Email: Not Provided
+  Phone: Not Provided
+  Location:
+    City: Not Provided
+    Country: Not Provided
+    Remote Preference: Not Provided
+  Summary: Not Provided
+  Linkedin: Not Provided
+  Github: Not Provided
+Experience:
+  Company: Aditya Birla Group
+  Company Info:
+    Industry: Not Provided
+    Size: Not Provided
+  Title: Project Manager
+  Level: Not Provided
+  Employment Type: Not Provided
+  Dates:
+    Start: 2012
+    End: Present
+    Duration: Not Provided
+  Responsibilities:
+    - Not Provided
+  Technical Environment:
+    Technologies:
+      - MS Technology .Net
+      - SharePoint
+      - MS SQL
+      - Oracle PL/SQL
+      - Cloud Computing using Windows Azure and Amazon AWS/ EC2 Cloud
+      - XML/XAML/XSLT
+      - HTML5
+      - DHTML
+      - CSS3
+      - JavaScript/JQuery/JSON
+      - AngularJS
+      - Web API
+      - OData Service
+      - VBScript
+      - Node JS
+      - UI Design and Mobile Development
+      - JAVA
+      - JSP
+      - SWING
+      - J2EE Service Oriented Architecture (SOA)
+      - Web Service/WCF Service/Web API
+      - Design Pattern like MVC
+      - MVP
+      - Abstract Factory OOAD with UML Implementation .NET SAP Connector
+      - SAP Web Channel and SAP Enterprise Portal
+      - Android
+      - iOS
+      - Team Foundation Server 2010/12(TFS)
+      - GitHub
+      - IBM Rational
+      - DevOps
+      - Team Forge and SharePoint Portal Administration /Development
+      - CollabNet
+      - JIRA
+      - IOT Implementation
+      - Web/Data analytics
+      - Working with the road map of Machine learning and AI
+      - BI tools like Crystal report
+      - Escalation Management SSRS
+      - Tableau
+      - Micro Strategy
+      - QlikView
+      - IT Network/Infrastructure Monitoring tool Centreon
+      - Cisco Meraki
+      - BizTalk BAM
+    Methodologies:
+      - Not Provided
+    Tools:
+      - Not Provided
+Education:
+  Degree:
+    Level: Bachelor of Art
+    Field: Economics
+    Major: Not Provided
+  Institution:
+    Name: Dibrugarh University
+    Location: Dibrugarh, Assam, IN
+    Accreditation: Not Provided
+  Dates:
+    Start: 1998
+    Expected Graduation: Not Provided
+  Achievements:
+    Honors: Not Provided
+    Relevant Coursework:
+      - Not Provided
+  Degree:
+    Level: MBA
+    Field: Information Technology
+    Major: Not Provided
+  Institution:
+    Name: Sikkim Manipal University
+    Location: Not Provided
+    Accreditation: Not Provided
+  Dates:
+    Start: Not Provided
+    Expected Graduation: Not Provided
+  Achievements:
+    Honors: Not Provided
+    Relevant Coursework:
+      - Not Provided
+  Degree:
+    Level: Not Provided
+    Field: Software Engineering and Computer Science
+    Major: Not Provided
+  Institution:
+    Name: NIIT
+    Location: Pune, Maharashtra
+    Accreditation: Not Provided
+  Dates:
+    Start: Not Provided
+    Expected Graduation: Not Provided
+  Achievements:
+    Honors: Not Provided
+    Relevant Coursework:
+      - Not Provided
+Skills:
+  Technical:
+    Programming Languages:
+      Name: MICROSOFT SHAREPOINT
+      Level: 147 months experience
+      Name: SHAREPOINT
+      Level: 147 months experience
+      Name: SQL
+      Level: 92 months experience
+      Name: ASP
+      Level: 79 months experience
+      Name: ASP.NET
+      Level: 76 months experience
+    Frameworks:
+      Name: Not Provided
+      Level: Not Provided
+    Databases:
+      Name: Not Provided
+      Level: Not Provided
+    Cloud:
+      Name: Not Provided
+      Level: Not Provided
+  Languages:
+    Name: Not Provided
+    Level: Not Provided
+Projects:
+  Name: Not Provided
+  Description: Not Provided
+  Technologies:
+    - Not Provided
+  Role: Not Provided
+  Url: Not Provided
+  Impact: Not Provided
