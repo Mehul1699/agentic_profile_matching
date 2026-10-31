@@ -1,0 +1,129 @@
+Personal Info:
+  Name: Not Provided
+  Email: Not Provided
+  Phone: Not Provided
+  Location:
+    City: Nashik
+    Country: India
+    Remote Preference: Not Provided
+  Summary: Java Developer with experience in various technologies such as Spring MVC, Hibernate, JDBC, Java, J2EE, AzureWeb SunTechnologies Services, JSP, Struts, Servlet, RestApi, JavaScript, AJAX, HTML, JSON, PHP, MsSQL, MySQL, Oracle, ApacheTomcatServer, OnesignalWebPushNotifications, AzurewebServices, IONIC, HTML, JSON, WindowsServer2012R2, WinXP/7/8.1/10, Linux, Mac OS.
+  Linkedin: Not Provided
+  Github: Not Provided
+Experience:
+  Company: Replete business solutions pvt ltd
+  Company Info:
+    Industry: Not Provided
+    Size: Not Provided
+  Title: Java Developer
+  Level: Not Provided
+  Employment Type: Not Provided
+  Dates:
+    Start: Not Provided
+    End: Not Provided
+    Duration: Not Provided
+  Responsibilities:
+    - Working as Java developer in spring MVC, MySQL, MsSql, Java, J2EE, Ajax, Javascript, ionic 3 framework, angular js etc.
+  Technical Environment:
+    Technologies:
+      - Spring MVC
+      - Hibernate
+      - JDBC
+      - Java
+      - J2EE
+      - AzureWeb SunTechnologies Services
+      - JSP
+      - Struts
+      - Servlet
+      - RestApi
+      - JavaScript
+      - AJAX
+      - HTML
+      - JSON
+      - PHP
+      - MsSQL
+      - MySQL
+      - Oracle
+      - ApacheTomcatServer
+      - OnesignalWebPushNotifications
+      - AzurewebServices
+      - IONIC
+      - HTML
+      - JSON
+      - WindowsServer2012R2
+      - WinXP/7/8.1/10
+      - Linux
+      - Mac OS
+    Methodologies:
+      - Not Provided
+    Tools:
+      - Not Provided
+Education:
+  Degree:
+    Level: BE
+    Field: Computer Engineering
+    Major: Not Provided
+  Institution:
+    Name: Late G.N. Sapkal COE
+    Location: Nashik, Maharashtra, India
+    Accreditation: Not Provided
+  Dates:
+    Start: 2013-08
+    Expected Graduation: 2016-07
+  Achievements:
+    Honors: Not Provided
+    Relevant Coursework:
+      - Not Provided
+  Degree:
+    Level: Diploma
+    Field: Computer technology
+    Major: Not Provided
+  Institution:
+    Name: K K Wagh Polytechnic
+    Location: Nashik, Maharashtra, India
+    Accreditation: Not Provided
+  Dates:
+    Start: 2009-07
+    Expected Graduation: 2013-06
+  Achievements:
+    Honors: Not Provided
+    Relevant Coursework:
+      - Not Provided
+Skills:
+  Technical:
+    Programming Languages:
+      Name: Java
+      Level: Not Provided
+      Name: JavaScript
+      Level: Not Provided
+      Name: PHP
+      Level: Not Provided
+    Frameworks:
+      Name: Spring MVC
+      Level: Not Provided
+      Name: Hibernate
+      Level: Not Provided
+      Name: JDBC
+      Level: Not Provided
+    Databases:
+      Name: MsSQL
+      Level: Not Provided
+      Name: MySQL
+      Level: Not Provided
+      Name: Oracle
+      Level: Not Provided
+    Cloud:
+      Name: AzureWeb SunTechnologies Services
+      Level: Not Provided
+      Name: AzurewebServices
+      Level: Not Provided
+  Languages:
+    Name: Not Provided
+    Level: Not Provided
+Projects:
+  Name: Not Provided
+  Description: Not Provided
+  Technologies:
+    - Not Provided
+  Role: Not Provided
+  Url: Not Provided
+  Impact: Not Provided

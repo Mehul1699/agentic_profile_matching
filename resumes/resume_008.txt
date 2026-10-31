@@ -1,0 +1,106 @@
+Personal Info:
+  Location:
+    City: Amravati
+    Country: India
+  Summary: Experienced Java Developer with expertise in JSP, Servlets, Spring, Hibernate, and front-end technologies like HTML, CSS, JavaScript, and jQuery. Proficient in MySQL and development tools such as Eclipse and NetBeans.
+Experience:
+  Company: Kunal IT Services Pvt Ltd
+  Company Info:
+    Industry: IT Services
+  Title: Java Developer
+  Level: mid
+  Employment Type: full-time
+  Dates:
+    Start: 2015-07-01
+    End: 2017-06-30
+    Duration: 2 years
+  Responsibilities:
+    - Developed and maintained Java-based web applications using JSP, Servlets, Spring, and Hibernate.
+    - Implemented front-end features using HTML, CSS, JavaScript, and jQuery.
+    - Worked with MySQL databases for data storage and retrieval.
+    - Utilized Eclipse and NetBeans IDE for software development.
+  Technical Environment:
+    Technologies:
+      - Java
+      - JSP
+      - Servlets
+      - Spring
+      - Hibernate
+      - HTML
+      - CSS
+      - JavaScript
+      - jQuery
+      - Ajax
+    Methodologies:
+      - OOP
+      - Agile
+    Tools:
+      - Eclipse
+      - NetBeans
+      - Apache Tomcat
+  Company: Winsol Solution Pvt Ltd
+  Company Info:
+    Industry: IT Services
+  Title: Java Developer
+  Level: mid
+  Employment Type: full-time
+  Dates:
+    Start: 2017-07-01
+    End: Present
+    Duration: Ongoing
+  Responsibilities:
+    - Currently working as a Java Developer, contributing to software development projects.
+    - Developing and maintaining Java-based applications.
+  Technical Environment:
+    Technologies:
+      - Java
+      - Spring
+      - Hibernate
+      - JSP
+      - Servlets
+    Methodologies:
+      - OOP
+      - Agile
+    Tools:
+      - Eclipse
+      - NetBeans
+      - Apache Tomcat
+Education:
+  Degree:
+    Level: High School
+    Field: Science
+  Institution:
+    Name: VidyaBharati College
+    Location: Amravati, Maharashtra, India
+  Dates:
+    Start: 2005-06
+    Expected Graduation: 2007-01
+  Achievements:
+    Relevant Coursework:
+  Degree:
+    Level: Secondary School
+    Field: General
+  Institution:
+    Name: Holy Cross English School
+    Location: Amravati, Maharashtra, India
+  Dates:
+    Start: 2003-06
+    Expected Graduation: 2005-01
+  Achievements:
+    Relevant Coursework:
+Skills:
+  Technical:
+    Programming Languages:
+      Name: Java
+      Level: intermediate
+    Frameworks:
+      Name: Spring
+      Level: beginner
+      Name: Hibernate
+      Level: beginner
+    Databases:
+      Name: MySQL
+      Level: intermediate
+    Cloud:
+  Languages:
+Projects:

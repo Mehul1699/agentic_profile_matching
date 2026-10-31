@@ -1,0 +1,3 @@
+We are looking for a Java Backend Developer with knowledge of Java, Spring Boot, and object-oriented programming. 
+Candidates should have experience with REST APIs, microservices, and SQL databases. 
+Familiarity with Hibernate, Git, and Maven is preferred.

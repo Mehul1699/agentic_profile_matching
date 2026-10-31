@@ -1,0 +1,70 @@
+Personal Info:
+  Location:
+  Summary: Hardworking Java Developer enthusiastic about working with multicultural teams. Having 2 years of experience in working with a Payment Gateway Solutions provider with Core Java.
+Experience:
+  Company: Aurus Tech Pvt. Ltd
+  Company Info:
+    Industry: Payment Gateway Solutions
+  Title: Java Developer
+  Level: mid
+  Employment Type: full-time
+  Dates:
+    Duration: 2 years
+  Responsibilities:
+    - Participated in requirements gathering and design development meetings.
+    - Reviewed code and debugged errors to improve performance.
+    - Coordinated with systems partners to finalize designs and confirm requirements.
+    - Consistently met deadlines and requirements for all production work orders.
+    - Collaborated with other developers to identify and alleviate the number of bugs in the software and provided maintenance and development of bug fixes and patch sets for existing applications.
+  Technical Environment:
+    Technologies:
+      - Java
+      - Advanced Java
+      - Derby
+      - Oracle
+      - Linux
+    Methodologies:
+      - Agile
+    Tools:
+      - Eclipse (Oxygen)
+      - SonarQube
+      - Putty
+Education:
+  Degree:
+    Level: Bachelor of Engineering
+    Field: Computer
+  Institution:
+    Name: Savitribai Phule Pune University
+  Dates:
+  Achievements:
+    Relevant Coursework:
+Skills:
+  Technical:
+    Programming Languages:
+      Name: Java
+      Level: advanced
+      Name: Advanced Java
+      Level: intermediate
+    Frameworks:
+    Databases:
+      Name: Oracle
+      Level: beginner
+      Name: Derby
+      Level: beginner
+      Name: MySQL
+      Level: beginner
+    Cloud:
+    Operating Systems:
+      Name: Windows
+      Level: intermediate
+      Name: Linux (CentOS 6.6)
+      Level: beginner
+    Tools:
+      Name: Eclipse (Oxygen)
+      Level: intermediate
+      Name: SonarQube
+      Level: beginner
+      Name: Putty
+      Level: beginner
+  Languages:
+Projects:

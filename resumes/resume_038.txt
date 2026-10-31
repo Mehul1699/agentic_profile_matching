@@ -1,0 +1,53 @@
+Personal Info:
+  Location:
+    City: Pune
+    Country: India
+Experience:
+  Company: Atos Syntel
+  Company Info:
+  Title: Python Developer
+  Dates:
+  Responsibilities:
+    - Design and development of computer vision based algorithms for image preprocessing using OpenCV, PIL, and Numpy
+    - Unit testing and debugging the code and maintaining the versions using Git
+  Technical Environment:
+    Technologies:
+      - Python
+      - OpenCV
+      - PIL
+      - Numpy
+      - Git
+    Methodologies:
+    Tools:
+Education:
+  Degree:
+    Level: Bachelor of Engineering
+    Field: Computer
+  Institution:
+    Name: Savitribai Phule Pune University
+    Location: Pune, Maharashtra
+  Dates:
+    Expected Graduation: June 2018
+  Achievements:
+    Relevant Coursework:
+Skills:
+  Technical:
+    Programming Languages:
+      Name: Python
+      Level: 15 months experience
+      Name: Database
+      Level: 7 months experience
+      Name: MySQL
+      Level: 7 months experience
+      Name: Django
+      Level: 6 months experience
+      Name: HTML5
+      Level: 6 months experience
+      Name: REST API
+      Level: 6 months experience
+    Frameworks:
+    Databases:
+    Cloud:
+  Languages:
+Projects:
+  Technologies:

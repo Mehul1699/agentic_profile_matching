@@ -1,0 +1,59 @@
+Personal Info:
+  Location:
+    City: Nagpur
+    Country: India
+Experience:
+  Company: Almighty Tech Pvt Ltd
+  Company Info:
+  Title: Java Developer
+  Level: mid
+  Employment Type: full-time
+  Dates:
+    Start: 2018-01-01
+  Responsibilities:
+    - Resolve Bugs
+    - Develop project as per user requirement
+  Technical Environment:
+    Technologies:
+      - Java
+      - JDBC
+      - Hibernate
+      - Java J2EE
+      - JavaScript
+      - jQuery
+      - Ajax
+    Methodologies:
+    Tools:
+      - MS Office
+      - Excel
+Education:
+  Degree:
+    Level: BE
+    Field: Information Technology
+  Institution:
+    Name: PJLCE
+  Dates:
+  Achievements:
+    Relevant Coursework:
+Skills:
+  Technical:
+    Programming Languages:
+      Name: C++
+      Level: beginner
+      Name: C
+      Level: beginner
+      Name: Java
+      Level: beginner
+      Name: DS
+      Level: beginner
+    Frameworks:
+      Name: Hibernate
+      Level: beginner
+      Name: JDBC
+      Level: intermediate
+      Name: Java J2EE
+      Level: beginner
+    Databases:
+    Cloud:
+  Languages:
+Projects:

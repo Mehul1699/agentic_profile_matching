@@ -1,0 +1,88 @@
+Personal Info:
+  Location:
+    City: Pune
+    Country: India
+    Remote Preference: No
+Experience:
+  Company: KPIT Technologies
+  Company Info:
+    Industry: Information Technology
+    Size: 1000-5000 employees
+  Title: Python RESTful API developer
+  Level: mid
+  Employment Type: full-time
+  Dates:
+    Start: 2011-07-06
+    End: present
+    Duration: 10 years
+  Responsibilities:
+    - Production and Maintenance of Projects
+    - Handling projects in agile methodology
+    - Handling projects in SDLC
+    - Gather requirement and providing Estimate & solution document
+    - Debugging and Testing based on Python and AS/400
+    - Promoting changes in Development to UAT and LIVE environment through Pivotal Cloud Foundry
+  Technical Environment:
+    Technologies:
+      - Python
+      - AS/400
+      - MongoDB
+      - MySQL
+      - PostgreSQL
+      - DJango
+      - Angular 6
+      - HTML
+      - CSS
+      - Java
+    Methodologies:
+      - Agile
+      - SDLC
+    Tools:
+      - Pivotal Cloud Foundry
+Education:
+  Degree:
+    Level: MSc
+    Field: Computer Science
+  Institution:
+    Name: Pune University
+    Location: Pune, India
+  Dates:
+  Achievements:
+    Relevant Coursework:
+  Degree:
+    Level: BSc
+    Field: Computer Science
+  Institution:
+    Name: Pune University
+    Location: Pune, India
+  Dates:
+  Achievements:
+    Relevant Coursework:
+Skills:
+  Technical:
+    Programming Languages:
+      Name: Python
+      Level: intermediate
+      Name: Java
+      Level: intermediate
+    Frameworks:
+      Name: Flask
+      Level: beginner
+      Name: Django
+      Level: intermediate
+    Databases:
+      Name: MongoDB
+      Level: intermediate
+      Name: MySQL
+      Level: intermediate
+      Name: PostgreSQL
+      Level: intermediate
+    Cloud:
+      Name: Pivotal Cloud Foundry
+      Level: intermediate
+  Languages:
+    Name: English
+    Level: fluent
+    Name: German
+    Level: beginner
+Projects:

@@ -1,0 +1,94 @@
+Personal Info:
+  Name: Not Provided
+  Email: Not Provided
+  Phone: Not Provided
+  Location:
+    City: Pune
+    Country: India
+    Remote Preference: Not Provided
+  Summary: Python Developer
+  Linkedin: Not Provided
+  Github: Not Provided
+Experience:
+  Company: Fresher
+  Company Info:
+    Industry: Not Provided
+    Size: Not Provided
+  Title: Python Developer
+  Level: Not Provided
+  Employment Type: Not Provided
+  Dates:
+    Start: Not Provided
+    End: Not Provided
+    Duration: Not Provided
+  Responsibilities:
+    - Python programming
+  Technical Environment:
+    Technologies:
+      - Python
+      - C++
+      - MySQL
+    Methodologies:
+      - Not Provided
+    Tools:
+      - Not Provided
+Education:
+  Degree:
+    Level: ME
+    Field: Computer Engineering
+    Major: Not Provided
+  Institution:
+    Name: Savitribai Phule Pune University
+    Location: Pune, Maharashtra
+    Accreditation: Not Provided
+  Dates:
+    Start: 2016-01
+    Expected Graduation: Not Provided
+  Achievements:
+    Honors: Not Provided
+    Relevant Coursework:
+      - Not Provided
+  Degree:
+    Level: B.E
+    Field: Computer Engineering
+    Major: Not Provided
+  Institution:
+    Name: Savitribai Phule Pune University
+    Location: Pune, Maharashtra
+    Accreditation: Not Provided
+  Dates:
+    Start: 2014-01
+    Expected Graduation: Not Provided
+  Achievements:
+    Honors: Not Provided
+    Relevant Coursework:
+      - Not Provided
+Skills:
+  Technical:
+    Programming Languages:
+      Name: Python
+      Level: 6 months experience
+      Name: C++
+      Level: 6 months experience
+      Name: MySQL
+      Level: 6 months experience
+    Frameworks:
+      Name: Not Provided
+      Level: Not Provided
+    Databases:
+      Name: Not Provided
+      Level: Not Provided
+    Cloud:
+      Name: Not Provided
+      Level: Not Provided
+  Languages:
+    Name: Not Provided
+    Level: Not Provided
+Projects:
+  Name: Not Provided
+  Description: Not Provided
+  Technologies:
+    - Not Provided
+  Role: Not Provided
+  Url: Not Provided
+  Impact: Not Provided

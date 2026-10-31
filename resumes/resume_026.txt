@@ -1,0 +1,131 @@
+Personal Info:
+  Location:
+    City: Mumbai
+    Country: India
+  Summary: Senior Business Analyst with extensive experience in RPA, process automation, and business analysis. Skilled in documentation, testing, and integration with a strong background in Agile and Waterfall methodologies.
+Experience:
+  Company: Hexaware Technologies
+  Company Info:
+    Industry: IT Services
+  Title: Senior Business Analyst - RPA
+  Level: senior
+  Employment Type: full-time
+  Dates:
+    End: Present
+  Responsibilities:
+    - Performed Automation Assessment of various processes and identified RPA candidates.
+    - Conducted feasibility analysis and ROI assessment for automation tools.
+    - Prepared Automation Potential Sheets detailing process steps, transaction volume, and automation potential.
+    - Implemented Proof of Concept (POC) to validate feasibility and financial benefits.
+    - Gathered business requirements through stakeholder interviews and documented them in BRD and FRS.
+    - Designed test plans, test scenarios, and test cases for integration, regression, and UAT.
+    - Collaborated with offshore and onshore development teams.
+  Technical Environment:
+    Technologies:
+      - RPA
+      - SQL
+      - HPQC
+    Methodologies:
+      - Agile
+      - Waterfall
+    Tools:
+      - Bizagi
+      - MS Visio
+      - MS Office
+  Company: BBH - Brown Brothers Harriman & Co
+  Company Info:
+    Industry: Banking & Financial Services
+  Title: Business Analyst
+  Level: mid
+  Employment Type: full-time
+  Dates:
+  Responsibilities:
+    - Conducted automation assessments and feasibility studies.
+    - Developed decision models and validated them against test data.
+    - Performed business research to drive growth and process improvements.
+    - Communicated with onsite clients for queries, suggestions, and updates.
+    - Prepared PowerPoint presentations and business reports.
+    - Identified risks and issues impacting project delivery.
+  Technical Environment:
+    Technologies:
+      - SQL
+      - MS Office
+    Methodologies:
+      - Agile
+    Tools:
+      - Bizagi
+      - MS Visio
+  Company: First Advantage
+  Company Info:
+    Industry: Background Screening
+  Title: Business Analyst
+  Level: mid
+  Employment Type: full-time
+  Dates:
+  Responsibilities:
+    - Gathered requirements through interviews and brainstorming sessions.
+    - Developed decision models and executed rules as per specifications.
+    - Maintained and enhanced decision models for regulatory changes.
+    - Prepared detailed reports and documentation for internal and client use.
+    - Mentored and trained junior team members.
+  Technical Environment:
+    Technologies:
+      - SQL
+    Methodologies:
+      - Agile
+    Tools:
+      - MS Office
+Education:
+  Degree:
+    Level: Bachelor
+    Field: Computer Engineering
+    Major: Computer Engineering
+  Institution:
+    Name: Thadomal Shahani Engineering College
+    Location: Mumbai, Maharashtra, India
+  Dates:
+  Achievements:
+    Relevant Coursework:
+  Degree:
+    Level: Diploma
+    Field: Computer Engineering
+    Major: Computer Engineering
+  Institution:
+    Name: Institute of Technology
+    Location: Ulhasnagar, Maharashtra, India
+  Dates:
+  Achievements:
+    Relevant Coursework:
+  Degree:
+    Level: Secondary School Certificate
+    Field: General Education
+    Major: General Studies
+  Institution:
+    Name: New English High School
+    Location: Ulhasnagar, Maharashtra, India
+  Dates:
+  Achievements:
+    Relevant Coursework:
+Skills:
+  Technical:
+    Programming Languages:
+    Frameworks:
+    Databases:
+      Name: SQL
+      Level: intermediate
+    Cloud:
+  Tools:
+    Name: Bizagi
+    Level: intermediate
+    Name: MS Visio
+    Level: intermediate
+    Name: MS Office
+    Level: advanced
+    Name: HPQC
+    Level: intermediate
+  Methodologies:
+    Name: Agile
+    Level: advanced
+    Name: Waterfall
+    Level: intermediate
+Projects:

@@ -1,0 +1,52 @@
+ALEX MEHTA
+Python Developer | FastAPI | Data & Backend Engineering
+
+Pune, India | +91 99887 66554 | alex.mehta@email.com
+GitHub: github.com/alexmehta | LinkedIn: linkedin.com/in/alexmehta
+
+PROFESSIONAL SUMMARY
+Python developer with 2+ years of experience building backend services, APIs, and data-driven applications. Experienced with Python, FastAPI, PostgreSQL, Pandas, Docker, and AWS. Strong interest in backend engineering, automation, and reliable API design.
+
+TECHNICAL SKILLS
+Languages: Python, SQL
+Frameworks: FastAPI, Flask
+Libraries: Pandas, NumPy, Requests, Pydantic
+Databases: PostgreSQL, SQLite
+Cloud & Tools: AWS, Docker, Git, Linux, Postman
+Testing: PyTest
+Concepts: REST APIs, OOP, Data Structures, ETL, API Integration
+
+EXPERIENCE
+
+Python Developer | CloudPeak Systems | Pune | 2024–Present
+- Developed FastAPI services for internal data and workflow applications.
+- Designed REST endpoints with request validation, authentication, pagination, and exception handling.
+- Built Python scripts to automate recurring data-processing and reporting tasks.
+- Worked with PostgreSQL and optimized queries for frequently used endpoints.
+- Containerized services using Docker and supported deployments in AWS environments.
+
+Software Developer Intern | InnoWorks Labs | Pune | 2023–2024
+- Developed Python utilities for data cleaning and API integration.
+- Used Pandas and NumPy to transform and validate business datasets.
+- Assisted in writing unit tests and debugging application issues.
+- Worked with Git-based development and participated in code reviews.
+
+PROJECTS
+
+Sales Data Processing Pipeline
+Python, Pandas, PostgreSQL
+- Created an ETL pipeline that validates CSV files, cleans inconsistent records, and loads processed data into PostgreSQL.
+- Added logging and error reporting for failed records.
+
+Customer Support API
+Python, FastAPI, PostgreSQL
+- Developed CRUD APIs for customer tickets, categories, and ticket status.
+- Added filtering, pagination, validation, and automated tests using PyTest.
+
+EDUCATION
+Bachelor of Engineering in Computer Engineering
+Savitribai Phule Pune University | 2023
+
+CERTIFICATIONS
+- Python for Everybody
+- AWS Cloud Practitioner Essentials

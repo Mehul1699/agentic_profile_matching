@@ -1,0 +1,126 @@
+Personal Info:
+  Name: Not Provided
+  Email: Not Provided
+  Phone: Not Provided
+  Location:
+    City: Pune
+    Country: India
+    Remote Preference: Not Provided
+  Summary: Software Proficiency in various languages and tools. Worked on several projects including FPGA Implementation, Sorting Robot, and RFID Based Student Attendance System.
+  Linkedin: Not Provided
+  Github: Not Provided
+Experience:
+  Company: Parkar Consulting and Labs
+  Company Info:
+    Industry: Not Provided
+    Size: Not Provided
+  Title: DevOps Engineer
+  Level: Not Provided
+  Employment Type: Not Provided
+  Dates:
+    Start: Not Provided
+    End: Present
+    Duration: Not Provided
+  Responsibilities:
+    - Working on the DevOps team in Parkar Consulting and Labs. Hands on the AWS as well as Python
+  Technical Environment:
+    Technologies:
+      - C
+      - SQL
+      - PL/SQL
+      - JAVA
+      - JAVAEE
+      - Javascript
+      - HTML
+      - CSS
+      - jquery
+      - mysql
+      - Spring
+      - Hibernate
+      - Python
+    Methodologies:
+      - Not Provided
+    Tools:
+      - Xillinx
+      - Modelsim
+      - Matlab
+      - Multisim
+Education:
+  Degree:
+    Level: B.E.
+    Field: Not Provided
+    Major: Not Provided
+  Institution:
+    Name: Savitribai Phule Pune University
+    Location: Pune, Maharashtra, India
+    Accreditation: Not Provided
+  Dates:
+    Start: Not Provided
+    Expected Graduation: May 2016
+  Achievements:
+    Honors: Not Provided
+    Relevant Coursework:
+      - Not Provided
+Skills:
+  Technical:
+    Programming Languages:
+      Name: C
+      Level: Basic
+      Name: SQL
+      Level: Basic
+      Name: PL/SQL
+      Level: Basic
+      Name: JAVA
+      Level: Basic
+      Name: JAVAEE
+      Level: Basic
+      Name: Javascript
+      Level: Basic
+      Name: HTML
+      Level: Basic
+      Name: CSS
+      Level: Basic
+      Name: jquery
+      Level: Basic
+      Name: mysql
+      Level: Basic
+      Name: Spring
+      Level: Basic
+      Name: Hibernate
+      Level: Basic
+      Name: Python
+      Level: Basic
+    Frameworks:
+      Name: Not Provided
+      Level: Not Provided
+    Databases:
+      Name: Not Provided
+      Level: Not Provided
+    Cloud:
+      Name: AWS
+      Level: Not Provided
+  Languages:
+    Name: English
+    Level: Not Provided
+Projects:
+  Name: FPGA Implementation
+  Description: AES is Advanced Encryption Standard which is used in cryptography by which we can protect our data. It encrypted by a Secret Key.
+  Technologies:
+    - Not Provided
+  Role: Programmer
+  Url: Not Provided
+  Impact: Not Provided
+  Name: Sorting Robot
+  Description: The TCS 230 sensor sorts the RGB color balls according to their color.
+  Technologies:
+    - Not Provided
+  Role: Mechanism designer
+  Url: Not Provided
+  Impact: Not Provided
+  Name: RFID Based Student Attendance System
+  Description: In this student show RFID card of his own and then message send via GSM to their parent that his ward is present.
+  Technologies:
+    - Not Provided
+  Role: Interface
+  Url: Not Provided
+  Impact: Not Provided

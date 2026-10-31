@@ -1,0 +1,101 @@
+Personal Info:
+  Name: Not Provided
+  Email: Not Provided
+  Phone: Not Provided
+  Location:
+    City: Not Provided
+    Country: Not Provided
+    Remote Preference: Not Provided
+  Summary: Python Developer
+  Linkedin: Not Provided
+  Github: Not Provided
+Experience:
+  Company: Arsys Inovics pvt ltd
+  Company Info:
+    Industry: Not Provided
+    Size: Not Provided
+  Title: Python Developer
+  Level: Not Provided
+  Employment Type: Not Provided
+  Dates:
+    Start: Not Provided
+    End: Not Provided
+    Duration: Not Provided
+  Responsibilities:
+    - Participated in entire lifecycle of the projects including Design, Development, and Deployment, Testing and Implementation and support.
+    - Developed views and templates with Python and Django's view controller and templating language to created user-friendly website interface.
+    - Implemented navigation rules for the application and page outcomes, written controllers using annotations.
+    - Created this project using Django, Django REST API, MYSQL, PyMYSQL, Python, HTML5, CSS3.
+    - Created CRUD methods (get, post, put, delete) to make requests to the API server and tested Restful API using Postman.
+    - Created Unit test cases for unit testing.
+    - Worked with JSON based REST Web services
+    - Wrote Python routines to log into the websites and fetch data for selected options.
+    - Used Python modules such as requests, urllib for web crawling.
+    - Added the navigations and paginations and filtering columns and adding and removing the desired columns for view.
+    - Created a Git repository and added the project to GitHub.
+    - Utilized Agile process and JIRA issue management to track sprint cycles.
+    - Worked in an agile development environment.
+  Technical Environment:
+    Technologies:
+      - Python
+      - Django
+      - MySQL
+      - HTML
+      - CSS
+      - SQLAlchemy
+      - JSON
+      - Web Services (REST)
+      - Urllib
+    Methodologies:
+      - Agile
+    Tools:
+      - Git
+      - JIRA
+Education:
+  Degree:
+    Level: BE
+    Field: Not Provided
+    Major: Not Provided
+  Institution:
+    Name: Dr.BAMU
+    Location: Aurangabad
+    Accreditation: Not Provided
+  Dates:
+    Start: Not Provided
+    Expected Graduation: Not Provided
+  Achievements:
+    Honors: Not Provided
+    Relevant Coursework:
+      - Not Provided
+Skills:
+  Technical:
+    Programming Languages:
+      Name: Python
+      Level: 31 months
+      Name: CSS
+      Level: 31 months
+      Name: HTML
+      Level: 31 months
+      Name: MySQL
+      Level: 31 months
+      Name: Django
+      Level: 31 months
+      Name: web services
+      Level: Less than 1 year
+      Name: Logger
+      Level: Less than 1 year
+      Name: Mongodb
+      Level: Less than 1 year
+      Name: json
+      Level: Less than 1 year
+      Name: Unix
+      Level: Less than 1 year
+      Name: Rest
+      Level: Less than 1 year
+      Name: Sqlit3
+      Level: Less than 1 year
+    Frameworks:
+    Databases:
+    Cloud:
+  Languages:
+Projects:

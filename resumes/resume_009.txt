@@ -1,0 +1,77 @@
+Personal Info:
+  Location:
+    City: Gondia
+    Country: India
+Experience:
+  Company: Xoriant Solutions Pvt Ltd
+  Company Info:
+  Title: Java Developer
+  Employment Type: full-time
+  Dates:
+    Start: 2017-09
+    End: present
+  Responsibilities:
+    - Develop module from Backend to Middleware to Frontend.
+    - Bugs fixing and proactive developing of enhancements.
+    - Resolve Application incidents within defined UCs & creating different Task tickets.
+    - Debug and provide solutions for workflow.
+    - Resolving DB issues and providing technical support to BAs.
+    - Keeping track of deployments and their effect on ongoing jobs.
+    - Contribution towards automation of daily activities and process-based organization.
+    - On-time, within-budget delivery meeting customers' quality expectations.
+    - Maintain knowledge base of domain, known defects and issues, processes, and development techniques.
+  Technical Environment:
+    Technologies:
+      - Java
+      - SQL
+      - PL/SQL
+      - C
+      - C++
+      - JSP
+      - Ext JS
+      - XML
+      - Web Services
+    Methodologies:
+    Tools:
+      - Eclipse
+      - TOAD
+      - SoapBox
+      - Postman
+Education:
+  Degree:
+    Level: B.E.
+    Field: Computer Technology
+  Institution:
+    Name: Manoharbhai Patel Institute of Engineering and Technology
+    Location: Gondia, Maharashtra, India
+  Dates:
+    Expected Graduation: 2017-01
+  Achievements:
+    Relevant Coursework:
+  Degree:
+    Level: HSC
+  Institution:
+    Name: S.M.P. Science College
+    Location: Gondia, Maharashtra, India
+  Dates:
+  Achievements:
+    Relevant Coursework:
+Skills:
+  Technical:
+    Programming Languages:
+      Name: Java
+      Name: SQL
+      Name: PL/SQL
+      Name: C
+      Name: C++
+    Frameworks:
+      Name: JSP
+      Name: Ext JS
+    Databases:
+      Name: Oracle
+      Name: MS-SQL
+      Name: MS-Access
+      Name: MS-Excel
+    Cloud:
+  Languages:
+Projects:

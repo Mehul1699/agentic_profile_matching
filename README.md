@@ -1,99 +1,188 @@
-# Resume Matching Agent
 
-A LangGraph-based conversational AI agent for resume screening, candidate matching, and job requirement analysis.
+# Agentic Resume and Profile Matching System
 
-## Overview
+An AI-powered resume screening and candidate matching system built using Python, LangGraph, ChromaDB, and OpenRouter.
 
-This project extends an existing Resume RAG (Retrieval-Augmented Generation) and Profile Matching system into a conversational agent. It aims to help users search resumes, rank candidates against job requirements, compare candidate profiles, and understand the reasoning behind matching results.
+The system helps recruiters identify relevant candidates from a resume database, rank candidates against job requirements, compare profiles, explain ranking decisions, and generate interview questions.
 
-## Objectives
+## Key Features
 
-- Build a stateful agent workflow using LangGraph.
-- Extract must-have and nice-to-have requirements from job descriptions.
-- Reuse existing resume retrieval and candidate-ranking functionality.
-- Support conversational queries and iterative requirement refinement.
-- Compare candidates and generate interview screening questions.
-- Produce explainable candidate reports highlighting strengths and skill gaps.
-- Implement multi-round candidate screening.
+- **Job Requirement Extraction:** Extracts required skills, must-have skills, and minimum experience from job descriptions.
+- **Semantic Resume Search:** Uses embeddings and ChromaDB to retrieve relevant resume content.
+- **Candidate Ranking:** Ranks candidates using semantic similarity and skill coverage.
+- **Requirement Refinement:** Allows recruiters to update job requirements during a conversation and rerun matching.
+- **Candidate Comparison:** Compares shortlisted candidates based on scores, matched skills, and missing skills.
+- **Explainable Matching:** Provides reasons behind candidate rankings.
+- **Multi-Round Screening:** Performs initial ranking followed by deeper analysis of shortlisted candidates.
+- **Interview Question Generation:** Generates candidate-specific interview questions.
+- **Human-in-the-Loop Review:** Pauses for recruiter feedback before producing the final report.
 
-## Planned Technology Stack
+## Technology Stack
 
-- **Python** — core implementation
-- **LangGraph** — agent workflow and state management
-- **ChromaDB** — vector storage and semantic retrieval
-- **OpenAI-compatible API via OpenRouter** — embedding generation and potential LLM capabilities
-- **CLI** — initial conversational interface
+- Python 3.12
+- LangGraph
+- LangChain Core
+- OpenAI-compatible API through OpenRouter
+- ChromaDB
+- Sentence embeddings: `openai/text-embedding-3-small`
+- Chat model: `openai/gpt-4o-mini`
+- PyPDF
+- python-dotenv
 
 ## Project Structure
 
 ```text
-resume-matching-agent/
+agentic_profile_matching/
 ├── matching_agent.py
 ├── job_matcher.py
 ├── resume_rag.py
 ├── fs_tools.py
-├── app.py
 ├── resumes/
 ├── job_descriptions/
+├── chroma_db/
 ├── tests/
+│   └── test_scenarios.md
 ├── docs/
+│   └── state_machine.md
 ├── requirements.txt
 ├── .env.example
 ├── .gitignore
 └── README.md
 ```
 
-*The structure above represents the planned project layout; files and features are being implemented incrementally.*
+## Setup Instructions
 
-## Planned Features
+### 1. Clone or download the project
 
-### 1. Agent Architecture
-- Stateful LangGraph workflow
-- Job requirement extraction
-- Resume retrieval and candidate ranking
-- Report generation and human feedback
+Open the project folder in VS Code.
 
-### 2. Conversational Interface
-- Natural-language candidate searches
-- Side-by-side candidate comparisons
-- Ranking explanations
-- Dynamic refinement of job requirements
+### 2. Create and activate a virtual environment
 
-### 3. Advanced Screening
-- Initial candidate screening
-- In-depth analysis of shortlisted candidates
-- Evidence-based hire/no-hire recommendations
-- Explainable match reports and interview questions
+```bash
+py -3.12 -m venv .venv
+.venv\Scripts\activate
+```
 
-## Setup
+### 3. Install dependencies
 
-1. Clone this repository.
-2. Create and activate a Python virtual environment.
-3. Install the project dependencies:
+```bash
+pip install -r requirements.txt
+```
 
-   ```bash
-   pip install -r requirements.txt
-   ```
+### 4. Configure environment variables
 
-4. Configure the required API key in a local `.env` file, using `.env.example` as a template.
-5. Run the application after implementation is complete.
+Create a `.env` file in the project root.
 
-## Security and Data Privacy
+Add your OpenRouter API key and model:
 
-- Do not commit API keys, `.env` files, or other secrets.
-- Use only resumes and candidate data that you are authorized to process.
-- Keep generated databases and temporary outputs out of version control unless explicitly required.
+```dotenv
+OPENAI_API_KEY=your_openrouter_api_key
+CHAT_MODEL=openai/gpt-4o-mini
+```
 
-## Project Status
+Keep your actual `.env` file private. Never commit API keys to GitHub.
 
-**In development.**
+### 5. Add resumes
 
-The project is being built incrementally on top of the existing Resume RAG and Profile Matching system. Agent orchestration, conversational interaction, testing, and documentation will be added as implementation progresses.
+Place PDF or supported resume files inside the `resumes/` folder.
 
-## Deliverables
+### 6. Index resumes
 
-- LangGraph-based agent implementation
-- State-machine diagram
-- Interactive chat interface
-- At least five conversation-flow test scenarios
-- Demo video demonstrating the agent's capabilities
+Run:
+
+```bash
+python resume_rag.py
+```
+
+This processes the resumes and stores their embeddings in ChromaDB.
+
+### 7. Start the agent
+
+Run:
+
+```bash
+python matching_agent.py
+```
+
+Follow the prompts in the terminal to interact with the recruiter assistant.
+
+## Example Conversation
+
+**Recruiter:** Find React developers with at least 3 years of experience.
+
+**Agent:** Extracts requirements, searches resumes, ranks candidates, performs deeper screening, and generates recommendations.
+
+**Recruiter:** Also require AWS.
+
+**Agent:** Updates the requirements and reruns candidate matching.
+
+**Recruiter:** Compare the top 3 candidates.
+
+**Agent:** Presents a comparison of the shortlisted candidates.
+
+**Recruiter:** Why is the first candidate ranked higher?
+
+**Agent:** Explains the ranking using match scores and resume evidence.
+
+**Recruiter:** Generate interview questions for the top candidate.
+
+**Agent:** Generates relevant interview questions.
+
+The agent also pauses for human review and captures recruiter feedback before producing the final report.
+
+## Candidate Matching Method
+
+Candidate ranking uses two main components:
+
+- Semantic similarity: 45%
+- Skill coverage: 55%
+
+The resulting score is a ranking aid, not a probability of hiring success.
+
+Must-have skills and minimum experience are also considered when determining candidate eligibility.
+
+## Multi-Round Screening
+
+**Round 1 — Initial Screening**
+- Retrieves relevant resume content.
+- Calculates candidate match scores.
+- Checks must-have skills and experience.
+- Creates a shortlist of up to 10 candidates.
+
+**Round 2 — Deep Screening**
+- Analyzes shortlisted candidates in greater detail.
+- Identifies strengths, missing skills, relevant experience, and potential concerns.
+- Generates final recommendations.
+
+**Human Review**
+- Pauses for recruiter feedback.
+- Records the feedback in the final report.
+
+## Testing
+
+Conversation-flow test scenarios are documented in:
+
+`tests/test_scenarios.md`
+
+These cover new searches, requirement refinement, candidate comparison, ranking explanations, interview questions, and human feedback.
+
+## State Machine Architecture
+
+The LangGraph workflow is documented in:
+
+`docs/state_machine.md`
+
+## Important Notes
+
+- Matching scores support recruiter decision-making and should not be treated as hiring probabilities.
+- Missing information in retrieved resume excerpts does not necessarily mean a candidate lacks that skill.
+- Recruiters should review original resumes and verify important qualifications before making hiring decisions.
+- Final hiring decisions remain with human recruiters.
+
+## Future Improvements
+
+- Streamlit or Gradio graphical interface.
+- Parallel candidate screening.
+- More advanced feedback-driven recommendation updates.
+- Improved experience calculation using employment dates.
+- Persistent conversation storage.

@@ -1,0 +1,142 @@
+Personal Info:
+  Location:
+    City: Pune
+    Country: India
+  Summary: Experienced Operations Manager with expertise in project execution, engineering, and team coordination. Skilled in managing contractual and commercial issues, ensuring project profitability, and maintaining high client satisfaction.
+Experience:
+  Company: Delta Controls, Dubai FZCO
+  Company Info:
+    Industry: Automation & Controls
+  Title: Operations Manager
+  Level: senior
+  Employment Type: full-time
+  Dates:
+    Start: 2017-08
+    End: Present
+    Duration: 7 years
+  Responsibilities:
+    - Reporting to the GM-Operations
+    - Reviewing SOW, RFQ, and assisting the proposal team
+    - Managing project execution plans and client meetings
+    - Ensuring project profitability and budget monitoring
+    - Applying quality management systems and processes
+    - Coordinating site activities and project closeout
+    - Providing feedback for future proposals
+    - Preparing project management reports and variance analysis
+  Company: Honeywell Automation India Ltd
+  Company Info:
+    Industry: Automation & Controls
+    Size: Large
+  Title: Project Lead
+  Level: mid-senior
+  Employment Type: full-time
+  Dates:
+    Start: 2015-05
+    End: 2016-06
+    Duration: 1 year 1 month
+  Responsibilities:
+    - Coordinating between Honeywell Korea and GES teams
+    - Managing project scope, estimation, and execution
+    - Ensuring quality of deliverables and compliance with standards
+    - Attending project review meetings and technical discussions
+    - Supporting sales and proposal teams in project estimations
+  Company: Fox Controls
+  Company Info:
+    Industry: Automation & Controls
+  Title: Project Engineer
+  Level: mid
+  Employment Type: full-time
+  Dates:
+  Responsibilities:
+    - Developing PLC and SCADA-based applications
+    - Managing engineering and commissioning of process plants
+    - Ensuring project documentation and compliance
+    - Interacting with clients for technical discussions
+    - Tracking project schedules and ensuring timely delivery
+  Company: Enercon (India) Limited
+  Company Info:
+    Industry: Renewable Energy
+  Title: Commissioning Leader
+  Level: mid
+  Employment Type: full-time
+  Dates:
+  Responsibilities:
+    - Completed 7 projects ranging from 1.2 MW to 8.4 MW
+    - Worked with inverter-converter systems and power devices
+    - Handled SAP system for project management
+Education:
+  Degree:
+    Level: B.E
+    Field: Electronics
+  Institution:
+    Name: Pune University
+    Location: Pune, Maharashtra, India
+  Dates:
+    Start: 1996-08
+    Expected Graduation: 2000-08
+  Achievements:
+    Relevant Coursework:
+Skills:
+  Technical:
+    Project Management:
+      Name: Project Execution
+      Level: expert
+      Name: Quality Management
+      Level: advanced
+      Name: Budget Monitoring
+      Level: advanced
+    Automation:
+      Name: PLC Programming
+      Level: advanced
+      Name: SCADA Systems
+      Level: advanced
+    Software Tools:
+      Name: SAP
+      Level: intermediate
+      Name: Microsoft Visio
+      Level: intermediate
+  Languages:
+    Name: English
+    Level: fluent
+Projects:
+  Name: FGP/WPMP
+  Description: Led system configuration and application development for EPKS DCS + SIS + FGS.
+  Technologies:
+    - EPKS DCS
+    - C-300 Application Development
+  Role: Team Lead
+  Impact: Ensured timely delivery and quality control.
+  Name: Grain LNG RTLF
+  Description: Managed LNG Tanker Loading system development.
+  Technologies:
+    - EPKS DCS
+    - C-300 Controller
+  Role: Team Lead
+  Impact: Successfully completed a fast-track project with client appreciation.
+  Name: AMC TO HPM Migration-MX8800
+  Description: Led migration of HPM controllers for Thai Oil Public Co. Ltd.
+  Technologies:
+    - TPS
+    - HPM Controller
+  Role: Team Lead
+  Impact: Ensured smooth transition and quality assurance.
+  Name: Utilities and Offsites
+  Description: Managed utilities for ETHYLENE plant in Egypt.
+  Technologies:
+    - Experion R410.2
+    - Redundant Controllers
+  Role: Team Lead
+  Impact: Successfully completed FAT in Abu Dhabi.
+  Name: Control Plant-3/ Control Plant-6
+  Description: Led HVAC system development for Qatar Foundation.
+  Technologies:
+    - ML200 R (PLC)
+    - Experion R410.2
+  Role: Team Lead
+  Impact: Delivered all project deliverables on time.
+  Name: Graphics Development
+  Description: Developed HMI graphics for Chevron Oronite, Singapore.
+  Technologies:
+    - EPKS HMIWEB Display Builder
+  Role: Team Lead
+  Impact: Completed development with minimal client comments.

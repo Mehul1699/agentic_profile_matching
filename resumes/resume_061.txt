@@ -1,0 +1,42 @@
+Personal Info:
+  Name: Fahed
+  Summary: IABAC Certified Data Scientist with versatile experience over 1+ years in managing business, data science consulting and leading innovation projects, bringing business ideas to working real world solutions. Being a strong advocator of augmented era, where human capabilities are enhanced by machines, Fahed is passionate about bringing business concepts in area of machine learning, AI, robotics etc., to real life solutions.
+Experience:
+  Company: Datamites
+  Title: Data Science Consultant
+  Responsibilities:
+    - Analyzed and processed complex data sets using advanced querying, visualization and analytics tools.
+    - Responsible for loading, extracting and validation of client data.
+    - Worked on manipulating, cleaning & processing data using python.
+    - Used Tableau for data visualization.
+  Company: Heretic Solutions Pvt Ltd
+  Responsibilities:
+    - Worked closely with business to identify issues and used data to propose solutions for effective decision making.
+    - Manipulating, cleansing & processing data using Python, Excel and R.
+    - Analyzed raw data, drawing conclusions & developing recommendations.
+    - Used machine learning tools and statistical techniques to produce solutions to problems.
+Education:
+  Degree:
+    Level: B. Tech
+    Field: Computer Science & Engineering
+  Institution:
+    Name: Indo Global College of Engineering
+    Location: Mohali, Punjab
+  Dates:
+    Start: 2017-01
+Skills:
+  Technical:
+    Programming Languages:
+      Name: Python
+      Level: expert
+      Name: R Studio
+      Level: intermediate
+    Frameworks:
+      Name: Tableau
+      Level: advanced
+      Name: Machine Learning
+      Level: advanced
+    Databases:
+    Cloud:
+  Languages:
+Projects:

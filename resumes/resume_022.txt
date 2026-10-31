@@ -1,0 +1,93 @@
+Personal Info:
+  Location:
+    City: Pune
+    Country: India
+    Remote Preference: onsite
+  Summary: Highly motivated Software Testing & Automation Engineer with strong work ethics, quick learning ability, and experience in test automation, defect tracking, and Agile methodologies.
+Experience:
+  Company: Tech Mahindra
+  Company Info:
+    Industry: IT Services
+    Size: 115,000 employees
+  Title: Software Testing & Automation Engineer
+  Level: mid
+  Employment Type: full-time
+  Dates:
+    Start: 2017-10
+    End: present
+    Duration: 6 years 8 months
+  Responsibilities:
+    - Designed and developed test frameworks for test scenarios and test cases.
+    - Developed automation test scripts for existing applications.
+    - Executed test cases for every new release.
+    - Logged defects and tracked test lifecycle using HPQC.
+    - Formulated test summary reports.
+    - Conducted internal test case peer reviews.
+    - Participated in daily Scrum meetings and weekly status meetings with developers and onsite teams.
+  Technical Environment:
+    Technologies:
+      - Selenium WebDriver
+      - Sikuli
+      - AutoIT
+    Methodologies:
+      - Agile
+      - Scrum
+    Tools:
+      - JIRA
+      - HPQC/ALM
+  Company: Tech Mahindra
+  Company Info:
+    Industry: IT Services
+    Size: 115,000 employees
+  Title: Software Engineer
+  Level: mid
+  Employment Type: full-time
+  Dates:
+    Duration: 2 years 7 months
+  Responsibilities:
+    - Designed, developed, and maintained automation test scripts and test cases using Selenium WebDriver.
+    - Executed test cases to verify application functionality.
+    - Tracked and managed test lifecycle and logged defects using JIRA and HPQC/ALM.
+    - Formulated test summary reports.
+    - Conducted internal test case peer reviews.
+    - Participated in daily Scrum meetings and weekly status meetings with developers and onsite teams.
+  Technical Environment:
+    Technologies:
+      - Selenium WebDriver
+      - Sikuli
+      - AutoIT
+    Methodologies:
+      - Agile
+      - Scrum
+    Tools:
+      - JIRA
+      - HPQC/ALM
+Education:
+  Degree:
+    Level: Bachelor of Technology
+    Field: Information Technology
+  Institution:
+    Name: BPUT University
+    Location: India
+  Dates:
+    Expected Graduation: 2014-01
+  Achievements:
+    Relevant Coursework:
+  Degree:
+    Level: Diploma
+    Field: Engineering
+  Institution:
+    Name: U.C.P Engineering School
+    Location: Brahmapur, Orissa, India
+  Dates:
+    Expected Graduation: 2010-01
+  Achievements:
+    Relevant Coursework:
+Skills:
+  Technical:
+    Programming Languages:
+    Frameworks:
+    Databases:
+    Cloud:
+  Languages:
+Projects:

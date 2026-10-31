@@ -1,0 +1,101 @@
+Personal Info:
+  Name: Not Provided
+  Email: Not Provided
+  Phone: Not Provided
+  Location:
+    City: Mumbai
+    Country: India
+    Remote Preference: Not Provided
+  Summary: Network Security Engineer with Cisco certifications and experience in various networking technologies.
+  Linkedin: Not Provided
+  Github: Not Provided
+Experience:
+  Company: Stormfur Technologies LLP
+  Company Info:
+    Industry: Not Provided
+    Size: Not Provided
+  Title: Network Security Engineer
+  Level: Not Provided
+  Employment Type: Not Provided
+  Dates:
+    Start: 2018-08
+    End: Present
+    Duration: Not Provided
+  Responsibilities:
+    - Troubleshoot firewall related incidents for customers
+    - Solve technical problems relating to installing security solutions
+    - Analyze security requirements of network system
+    - Reviewed configuration and maintained Cisco ASA Firewalls, routers, and switches
+    - Reviewed and modified access control lists (ACLs) on network switching and routing equipment as needed to maintain security standards
+    - Participated in core network team to upgrade corporate network
+    - Maintained network security technologies and services
+    - Interacted with clients and analyzed operational requirements
+    - Install and configured of IPSEC and SSL VPN
+    - Reviewed and configured VLAN, Routing Protocols (RIP, OSPF, EIGRP), NAT
+    - Support for client in various networking issues
+  Technical Environment:
+    Technologies:
+      - Networking
+      - Subnetting,Supernetting
+      - Access Lists
+      - ACLS
+      - Network Address Translation(NAT)
+      - VLAN
+      - AAA
+      - IPSec
+      - ACCESS CONTROL LISTS
+      - DHCP Snooping
+      - Private Vlan
+      - VLAN Hopping
+      - VPN
+      - Routing protocols-RIP,EIGRP,OSPF,BGP
+      - DM-VPN
+      - Switching
+      - Control Plane Security
+      - Data Plane Security
+      - Management Plane Security
+      - Network Telemetary
+      - Firewall
+      - Firewall Filtering Technologies
+      - ASA Failovers
+      - Zone Based Firewall
+      - Reputation Based Firewall
+      - Security Context
+      - Security
+    Methodologies:
+    Tools:
+Education:
+  Degree:
+    Level: B.E
+    Field: Technology
+    Major: Not Provided
+  Institution:
+    Name: Mumbai university
+    Location: Mumbai, India
+    Accreditation: Not Provided
+  Dates:
+    Start: Not Provided
+    Expected Graduation: 2018-01
+  Achievements:
+    Honors: Not Provided
+    Relevant Coursework:
+Skills:
+  Technical:
+    Programming Languages:
+    Frameworks:
+    Databases:
+    Cloud:
+  Languages:
+Projects:
+  Name: Temperature Controlled Cooling Fan
+  Description: This project simply senses the temperature level and turn ON the FAN when temperature is above set limit. This project was developed with an aim to control the temperature of devices and reduce the damages of the devices because of heating.
+  Technologies:
+  Role: Not Provided
+  Url: Not Provided
+  Impact: Not Provided
+  Name: Automatic Plant Watering System
+  Description: This project simply senses the moisture level and turn ON the water pump when moisture is
+  Technologies:
+  Role: Not Provided
+  Url: Not Provided
+  Impact: Not Provided

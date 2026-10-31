@@ -1,0 +1,58 @@
+Personal Info:
+  Location:
+  Summary: SAP Technical Architect and Consultant with 13+ years of experience in SAP, covering implementation, upgrade, application development, and maintenance. Expertise in SAP ABAP, SAP NetWeaver Gateway, S/4HANA, and multiple SAP modules. Strong leadership, client interaction, and project management skills.
+Experience:
+  Company Info:
+    Industry: SAP Consulting
+  Title: SAP Technical Architect
+  Level: senior
+  Employment Type: full-time
+  Dates:
+    End: Present
+    Duration: 13+ years
+  Responsibilities:
+    - Led SAP project full-lifecycle implementations across multiple global projects.
+    - Worked on SAP ABAP FRICEW components and various SAP modules including MM, FI, CO, SD, PS, PP, CS, PM, QM, and HR.
+    - Implemented and upgraded SAP systems, including S/4HANA, IS-Auto, IS-Retail, SCM 7.0, SOLMAN, SAP GTS, SAP PI 7.3, and SAP BI 7.0/7.3.
+    - Developed SAP NetWeaver Gateway (Fiori) applications and created multiple POCs for potential customers.
+    - Managed and led technical teams of different sizes in onsite-offshore support models.
+    - Handled customization in SD, FI, and MM modules.
+    - Worked on Unicode conversion and ECC6.0 upgrade projects.
+    - Engaged in pre-sales activities and project management.
+  Technical Environment:
+    Technologies:
+      - SAP ABAP
+      - SAP NetWeaver Gateway
+      - oData
+      - Fiori
+      - S/4HANA
+      - IS-Retail
+      - APO
+      - EWM
+    Methodologies:
+      - Agile
+      - ITIL
+      - PRINCE2
+    Tools:
+      - HPQC
+      - IBM ManageNow
+      - CA Service Desk
+      - Loftware
+      - Data Matrix
+Education:
+Skills:
+  Technical:
+    Programming Languages:
+      Name: SAP ABAP
+      Level: expert
+    Frameworks:
+      Name: SAP NetWeaver Gateway
+      Level: advanced
+      Name: oData
+      Level: advanced
+      Name: Fiori
+      Level: advanced
+    Databases:
+    Cloud:
+  Languages:
+Projects:

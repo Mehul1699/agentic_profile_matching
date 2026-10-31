@@ -1,0 +1,92 @@
+Personal Info:
+  Location:
+    City: Pune
+    Country: India
+  Summary: DevOps Engineer with software proficiency in various languages and tools.
+Experience:
+  Company: Parkar Consulting and Labs
+  Company Info:
+  Title: DevOps Engineer
+  Dates:
+    End: Present
+  Responsibilities:
+    - Working on the DevOps team in Parkar Consulting and Labs.
+    - Hands on experience with AWS and Python.
+  Technical Environment:
+    Technologies:
+      - C
+      - SQL
+      - PL/SQL
+      - JAVA
+      - JAVAEE
+      - Javascript
+      - HTML
+      - CSS
+      - jquery
+      - mysql
+      - Spring
+      - Hibernate
+    Methodologies:
+    Tools:
+      - Xillinx
+      - Modelsim
+      - Matlab
+      - Multisim
+Education:
+  Degree:
+    Level: B.E.
+  Institution:
+    Name: Savitribai Phule Pune University
+    Location: Pune, Maharashtra, India
+  Dates:
+    Expected Graduation: May 2016
+  Achievements:
+    Relevant Coursework:
+Skills:
+  Technical:
+    Programming Languages:
+      Name: C
+      Level: Basic
+      Name: SQL
+      Level: Basic
+      Name: PL/SQL
+      Level: Basic
+      Name: JAVA
+      Level: Basic
+      Name: JAVAEE
+      Level: Basic
+      Name: Javascript
+      Level: Basic
+      Name: HTML
+      Level: Basic
+      Name: CSS
+      Level: Basic
+      Name: jquery
+      Level: Basic
+      Name: mysql
+      Level: Basic
+      Name: Spring
+      Level: Basic
+      Name: Hibernate
+      Level: Basic
+      Name: Python
+      Level: Basic
+    Frameworks:
+    Databases:
+    Cloud:
+      Name: AWS
+  Languages:
+    Name: English
+Projects:
+  Name: FPGA Implementation
+  Description: B.E. Project: AES Algorithm is Advanced Encryption Standard which is used in cryptography by which we can protect our data. It encrypted by a Secret Key.
+  Technologies:
+  Role: Programmer
+  Name: Sorting Robot
+  Description: T.E. project: The TCS 230 sensor sorts the RGB color balls according to their color.
+  Technologies:
+  Role: Mechanism designer
+  Name: RFID Based Student Attendance System Using GSM
+  Description: Diploma Project: In this student show RFID card of his own and then message send via GSM to their parent that his ward is present.
+  Technologies:
+  Role: Interface

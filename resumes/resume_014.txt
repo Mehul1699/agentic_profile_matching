@@ -1,0 +1,76 @@
+Personal Info:
+  Location:
+    City: Mumbai
+    Country: India
+  Summary: Python Developer/analyst
+Experience:
+  Company: Ace The Power of 5
+  Company Info:
+  Title: Python Developer/analyst
+  Dates:
+    Duration: 12 months
+  Responsibilities:
+    - Understanding the functional requirements of the application given by the client
+    - Participated in walkthroughs of business requirements, functional requirements and technical design to ensure their testability
+    - Responsible for Software Configuration Management of project deliverables
+  Technical Environment:
+    Technologies:
+      - Python
+      - C
+      - C++
+      - Java
+      - MySQL
+      - Django
+      - HTML
+    Methodologies:
+    Tools:
+  Company: Kranti Dynamics
+  Company Info:
+  Title: Python Developer/analyst
+  Dates:
+    Duration: 12 months
+  Responsibilities:
+    - Programming
+    - Scripting
+    - Developer
+    - Web Scrapping
+  Technical Environment:
+    Technologies:
+      - Python
+      - C
+      - C++
+      - Java
+      - MySQL
+      - Django
+      - HTML
+    Methodologies:
+    Tools:
+Education:
+  Degree:
+    Level: B.E.
+    Field: Electronics
+  Institution:
+    Name: University of Mumbai
+    Location: Mumbai, India
+  Dates:
+    Expected Graduation: 2014-01
+  Achievements:
+    Relevant Coursework:
+Skills:
+  Technical:
+    Programming Languages:
+      Name: Python
+      Name: C
+      Name: C++
+      Name: Java
+      Name: HTML
+    Frameworks:
+      Name: Django
+    Databases:
+      Name: MySQL
+    Cloud:
+  Languages:
+    Name: English
+Projects:
+  Name: Fruit Sorting and Disease Detection
+  Technologies:

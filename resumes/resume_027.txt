@@ -1,0 +1,139 @@
+Personal Info:
+  Location:
+    City: Pune
+    Country: India
+  Summary: Experienced Python RESTful API developer with expertise in MongoDB, MySQL, and AS/400. Strong background in software development life cycle, debugging, and testing. Skilled in agile methodologies and cloud deployment using Pivotal Cloud Foundry.
+Experience:
+  Company: KPIT Technologies
+  Company Info:
+    Industry: Information Technology
+    Size: 1000+ employees
+  Title: Python RESTful API Developer
+  Level: mid
+  Employment Type: full-time
+  Dates:
+    Start: 2011-07-06
+    End: Present
+    Duration: 13 years
+  Responsibilities:
+    - Developed and maintained production projects using Python and AS/400.
+    - Handled projects following agile methodology and SDLC processes.
+    - Gathered requirements through customer interaction and provided estimates and solution documents.
+    - Performed debugging and testing using Python and AS/400.
+    - Managed change control and promoted changes from development to UAT and live environments using Pivotal Cloud Foundry.
+  Technical Environment:
+    Technologies:
+      - Python
+      - MongoDB
+      - MySQL
+      - AS/400
+      - Pivotal Cloud Foundry
+    Methodologies:
+      - Agile
+      - SDLC
+    Tools:
+      - Git
+      - JIRA
+  Company: KPIT Technologies
+  Company Info:
+    Industry: Information Technology
+    Size: 1000+ employees
+  Title: M3 Java Developer & Stream Serve Developer
+  Level: mid
+  Employment Type: full-time
+  Dates:
+    Start: 2016-07-06
+    End: 2017-07-06
+    Duration: 1 year
+  Responsibilities:
+    - Developed and maintained M3 Java applications for Movex/M3 ERP.
+    - Worked on Stream Serve development for document management.
+  Technical Environment:
+    Technologies:
+      - Java
+      - Stream Serve
+      - Movex/M3 ERP
+    Methodologies:
+      - Agile
+    Tools:
+      - Git
+  Company: KPIT Technologies
+  Company Info:
+    Industry: Information Technology
+    Size: 1000+ employees
+  Title: Senior AS/400 & Stream Serve Developer
+  Level: senior
+  Employment Type: full-time
+  Dates:
+    Start: 2012-07-06
+    End: 2016-07-06
+    Duration: 4 years
+  Responsibilities:
+    - Developed and maintained AS/400 applications for Movex/M3 ERP.
+    - Worked on Stream Serve development for document management.
+    - Implemented Movex/M3 standards, RPG/400, CL/400, ILE RPG, ILE CL, DB2/400, and SQL/400.
+  Technical Environment:
+    Technologies:
+      - AS/400
+      - Stream Serve
+      - Movex/M3 ERP
+      - DB2/400
+      - SQL/400
+    Methodologies:
+      - Agile
+    Tools:
+      - Git
+Education:
+  Degree:
+    Level: MSc
+    Field: Computer Science
+    Major: Software Development
+  Institution:
+    Name: Pune University
+    Location: Pune, India
+  Dates:
+  Achievements:
+    Relevant Coursework:
+  Degree:
+    Level: BSc
+    Field: Computer Science
+    Major: Software Development
+  Institution:
+    Name: Pune University
+    Location: Pune, India
+  Dates:
+  Achievements:
+    Relevant Coursework:
+Skills:
+  Technical:
+    Programming Languages:
+      Name: Python
+      Level: advanced
+      Name: Java
+      Level: intermediate
+      Name: RPG/400
+      Level: intermediate
+    Frameworks:
+      Name: Flask
+      Level: beginner
+      Name: Django
+      Level: beginner
+    Databases:
+      Name: MongoDB
+      Level: intermediate
+      Name: MySQL
+      Level: intermediate
+      Name: PostgreSQL
+      Level: beginner
+      Name: DB2/400
+      Level: intermediate
+    Cloud:
+      Name: Pivotal Cloud Foundry
+      Level: intermediate
+  Languages:
+    Name: English
+    Level: fluent
+    Name: German
+    Level: A1
+Projects:
+Certifications: Internal Python Training, Internal Python Web Crawling Training, Internal Python Web Scraping Training, Internal Python for Data Science Training, Internal MongoDB Training, Internal MySQL Training, Internal PostgreSQL Training, Internal Django Training, Internal Angular 6, HTML, CSS Training, German A1 Level (Goethe-Institute), Internal Core Java Training, IBM I Series AS/400 Training (Maples Institute, Pune), Internal MOVEX ERP Training (AS400/RPG/RPGLE), Internal M3 ERP Training (Java), Internal Stream Serve Training, M3 Enterprise Collaborator (MEC) Training

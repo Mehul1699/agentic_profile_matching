@@ -1,0 +1,104 @@
+Personal Info:
+  Location:
+    City: Pusad
+    Country: India
+Experience:
+  Company: Maxgen Technologies
+  Company Info:
+  Title: Java Developer
+  Employment Type: full-time
+  Dates:
+  Responsibilities:
+    - Currently working in Infrasoft Technologies, Andheri as a Java Developer.
+  Technical Environment:
+    Technologies:
+      - Java
+      - JSF
+      - Hibernate
+      - Spring
+    Methodologies:
+    Tools:
+  Company: MIS Generation of Tata Sky and Tata Power
+  Company Info:
+  Dates:
+  Responsibilities:
+  Technical Environment:
+    Technologies:
+    Methodologies:
+    Tools:
+Education:
+  Degree:
+    Level: Master of Engineering
+    Field: Information Technology
+  Institution:
+    Name: M.I.T
+    Location: Pune, Maharashtra
+  Dates:
+    Start: 2013-01
+  Achievements:
+    Relevant Coursework:
+  Degree:
+    Level: Bachelor of Engineering
+    Field: Information Technology
+  Institution:
+    Name: Amravati University
+    Location: Pusad, Maharashtra
+  Dates:
+    Start: 2005-01
+  Achievements:
+    Relevant Coursework:
+  Degree:
+    Level: Higher Secondary
+  Institution:
+    Name: P. N. Junior College
+    Location: Pusad, Maharashtra
+  Dates:
+    Start: 2001-01
+  Achievements:
+    Relevant Coursework:
+  Degree:
+    Level: Secondary School Certificate
+  Institution:
+    Name: K.D. High-School
+    Location: Pusad, Maharashtra
+  Dates:
+    Start: 1999-01
+  Achievements:
+    Relevant Coursework:
+Skills:
+  Technical:
+    Programming Languages:
+      Name: C
+      Name: C++
+      Name: Java
+      Name: Android
+    Frameworks:
+    Databases:
+      Name: MS Access
+      Name: SQL
+      Name: Oracle
+    Cloud:
+  Languages:
+Projects:
+  Name: Location Detector of Computing and Mobile Devices
+  Description: Android project for detecting location of computing and mobile devices.
+  Technologies:
+    - Android
+  Name: Data Deduplication
+  Description: Project to reduce redundant data from the system and free up memory by storing unique copies of data and using pointers for access.
+  Technologies:
+    - Java
+Publications:
+  Title: A secure cipher index over encrypted character data in database
+  Conference: National Conference at Pimpri Chinchwad College of Engineering, Pune
+  Date: 2011-04-28
+Teaching Experience:
+  Subjects:
+    - C language
+    - Core Java
+    - Object Oriented Programming (OOT/C++)
+    - Database
+    - PPS (Programming and Problem Solving)
+    - AD (Advanced Database)
+    - IAS (Information Assurance and Security)
+    - Android

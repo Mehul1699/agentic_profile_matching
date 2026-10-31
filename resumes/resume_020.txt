@@ -1,0 +1,71 @@
+Personal Info:
+  Name: Newcomer Indian Advocate
+  Location:
+    City: Mansa
+    Country: India
+  Summary: A Microsoft Certified Systems Engineer and Advocate with exceptional knowledge of administrative procedures, evidence rules and trials. Able to communicate clearly and concisely with people of diverse backgrounds and levels of authority. Focused and driven to always meet deadlines for pretrial procedures, trials and appellate briefings by effectively utilizing resources.
+Experience:
+  Company: District Courts
+  Title: Advocate
+  Dates:
+    Start: 2012-08-16
+    End: Present
+  Responsibilities:
+    - Advice clients of their legal rights and all matters related to law.
+    - Plead clients' cases which include various International companies, before courts of law, forums, tribunals and boards.
+    - Researching legal precedents, gathering evidence and trials of criminal, Injury and death compensation claims and others.
+    - Draw up legal documents such as bail petitions, appeals, divorces and contracts etc.
+    - Negotiates settlements of civil disputes.
+    - Act as mediator, conciliator, local commissioner or arbitrator as per Court orders
+    - Managing a private practice for more than 6 years, including all aspects of administration and management functions, controlling costs and achieving objectives related to the practice of law.
+Education:
+  Degree:
+    Level: Bachelor's
+    Field: Laws
+  Institution:
+    Name: Maharaja Ganga Singh University
+    Location: Bikaner, Rajasthan
+  Dates:
+    Start: 2009-07
+    End: 2012-05
+  Degree:
+    Level: Microsoft Certified Systems Engineer
+    Field: Networking
+  Institution:
+    Name: Microsoft
+    Location: Chandigarh
+  Dates:
+    Start: 2008-08
+    End: 2008-11
+  Degree:
+    Level: Bachelor's
+    Field: Bio-Informatics
+  Institution:
+    Name: Panjab University
+    Location: Chandigarh, Chandigarh
+  Dates:
+    Start: 2005-07
+    End: 2008-04
+Skills:
+  Technical:
+    Programming Languages:
+    Frameworks:
+    Databases:
+    Cloud:
+  Languages:
+    Name: English
+    Level: native
+    Name: Hindi
+    Level: bilingual
+    Name: Punjabi
+    Level: native
+  Other:
+    Name: Administration
+    Level: expert
+    Name: Legal Research
+    Level: expert
+    Name: Microsoft Office
+    Level: expert
+    Name: Drafting
+    Level: expert
+Projects:

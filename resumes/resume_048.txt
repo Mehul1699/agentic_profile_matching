@@ -1,0 +1,118 @@
+Personal Info:
+  Location:
+    City: Nagpur
+    Country: India
+Experience:
+  Company: Inouvelle Ventures Private Limited
+  Company Info:
+  Title: Java Developer
+  Employment Type: full-time
+  Dates:
+    Start: 2017-12-01
+    End: present
+  Responsibilities:
+    - Developed and maintained Stock Management System using Angular, Java (J2EE), Spring, Hibernate, and PostgreSQL.
+    - Performed manual and functional testing to ensure software quality.
+    - Worked on a Printing Press Management System to enhance organizational efficiency and profitability.
+  Technical Environment:
+    Technologies:
+      - Java
+      - J2EE
+      - Spring
+      - Hibernate
+      - Angular
+      - PostgreSQL
+    Methodologies:
+    Tools:
+      - Windows XP/7/8
+      - Manual Testing
+Education:
+  Degree:
+    Level: B.E
+    Field: Computer Science and Engineering
+  Institution:
+    Name: RTMNU University - Jhulelal Institute of Technology
+    Location: Nagpur, Maharashtra, India
+  Dates:
+    Start: 2013-01
+    Expected Graduation: 2017-01
+  Achievements:
+    Relevant Coursework:
+  Degree:
+    Level: HSC
+  Institution:
+    Name: Dayanand Arya Kanya Junior College
+    Location: Nagpur, Maharashtra, India
+    Accreditation: Maharashtra State Board
+  Dates:
+    Start: 2011-01
+    Expected Graduation: 2013-01
+  Achievements:
+    Relevant Coursework:
+  Degree:
+    Level: SSC
+  Institution:
+    Location: Nagpur, Maharashtra, India
+    Accreditation: Maharashtra State Board
+  Dates:
+    Start: 2010-01
+    Expected Graduation: 2011-01
+  Achievements:
+    Relevant Coursework:
+Skills:
+  Technical:
+    Programming Languages:
+      Name: C
+      Level: intermediate
+      Name: C++
+      Level: intermediate
+      Name: Java
+      Level: advanced
+      Name: J2EE
+      Level: advanced
+    Frameworks:
+      Name: Spring
+      Level: advanced
+      Name: Hibernate
+      Level: advanced
+    Databases:
+      Name: MySQL
+      Level: intermediate
+      Name: PostgreSQL
+      Level: intermediate
+    Cloud:
+    Testing:
+      Name: Functional Testing
+      Level: intermediate
+      Name: Manual Testing
+      Level: intermediate
+    Operating Systems:
+      Name: Windows
+      Level: intermediate
+      Name: Linux
+      Level: intermediate
+    Tools:
+      Name: MS Office
+      Level: intermediate
+  Languages:
+Projects:
+  Name: Stock Management System
+  Description: Developed a Stock Management System for the medicinal market to track medicines, surgical equipment, wholesalers, retailers, employees, and customers.
+  Technologies:
+    - Angular
+    - Java
+    - J2EE
+    - Spring
+    - Hibernate
+    - PostgreSQL
+  Role: Java Developer
+  Name: Printing Press Management System
+  Description: Developed a web-based Printing Press Management System to enhance organizational growth, efficiency, and profitability.
+  Technologies:
+    - Angular
+    - Java
+    - J2EE
+    - Spring
+    - Hibernate
+    - PostgreSQL
+  Role: Java Developer, Manual Testing
